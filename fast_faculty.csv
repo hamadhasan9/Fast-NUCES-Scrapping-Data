@@ -1,0 +1,522 @@
+ID,Name,Designation,HEC Approved,Highest Education,Email,Department,Extension,ImageURL
+1238,Dr. Kashif Zafar,Professor & HOD,True,Ph.D(Computer Science),kashif.zafar@nu.edu.pk,fsc,221,https://lhr.nu.edu.pk/media/Faculty/02_-_Dr._Kashif_Zafar_Prof__HoD_CS.png
+4391,Dr. Asif Mahmood Gillani,Professor,True,Ph.D(Computing),asif.gilani@nu.edu.pk,fsc,291,https://lhr.nu.edu.pk/media/Faculty/03_-_Dr._Asif_Mahmood_Gilani_Professor_CS.JPG
+5424,Dr. Hammad Naveed,Professor,True,Ph.D. (Bioengineering),hammad.naveed@nu.edu.pk,fsc,227,https://lhr.nu.edu.pk/media/Faculty/01_-_Dr._Hammad_Naveed_Professor_CS__Director.JPG
+4027,Dr. Aamir Wali,Associate Professor,True,PhD (CS),aamir.wali@nu.edu.pk,fsc,260,https://lhr.nu.edu.pk/media/Faculty/44_-_Dr._Aamir_Wali_Asst_Prof__HoD_AIDS.JPG
+6174,Dr. Arshad Ali,Associate Professor,True,PhD (CS),arshad.ali1@nu.edu.pk,fsc,406,https://lhr.nu.edu.pk/media/Faculty/04_-_Dr._Arshad_Ali_Assoc._Prof_CS.JPG
+6113,Dr. Asma Naseer,Associate Professor,True,PhD (CS),asma.naseer@nu.edu.pk,fsc,410,https://lhr.nu.edu.pk/media/Faculty/Dr_Asma_Naseer-removebg-preview.png
+9538,Dr. Irfan Younas,Associate Professor,False,Ph.D(Computer Science),irfan.younas@nu.edu.pk,fsc,413,https://lhr.nu.edu.pk/media/Faculty/007_Dr._Irfan_Younas_AP_CS-removebg-preview.jpg
+5181,Dr. Rana Asif Rehman,Associate Professor,True,PhD (Electronics & Computer Engineering),r.asif@nu.edu.pk,fsc,455,https://lhr.nu.edu.pk/media/Faculty/06_-_Dr._Rana_Asif_Rehman_Assoc._Prof_CS.JPG
+4261,Dr. Saira Karim,Associate Professor,True,Ph.D(Computer Science),saira.karim@nu.edu.pk,fsc,412,https://lhr.nu.edu.pk/media/Faculty/07_-_Dr._Saira_Karim_Asst_Prof_CS.JPG
+4329,Dr. Zareen Alamgir,Associate Professor,True,Ph.D(CS),zareen.alamgir@nu.edu.pk,fsc,416,https://lhr.nu.edu.pk/media/Faculty/05_-_Dr._Zareen_Alamgir_Assoc_Prof._CS.JPG
+9113,Dr. Ali Afzal Malik,Assistant Professor,True,Ph.D(Computer Science),ali.afzal@nu.edu.pk,fsc,311,https://lhr.nu.edu.pk/media/Faculty/55_-_Dr._Ali_Afzal_Malik_Asst_Prof_SE.JPG
+6418,Dr. Ammar Haider,Assistant Professor,False,PhD (CS),ammar.haider@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/16-_Dr._Ammar_Haider_Asst._Prof._CS.JPG
+4335,Dr. Asma Ahmad,Assistant Professor,False,PhD(CS),asma.ahmad@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/47_-_Dr._Asma_Ahmad_Asst_Prof_AIDS.jpg
+6667,Dr. Faisal Aslam,Assistant Professor,False,PhD,faisal.aslam@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/6667_2.png
+4677,Dr. Farooq Ahmed,Assistant Professor,False,PhD (Computer Science) NUCES,farooq.ahmad@nu.edu.pk,fsc,445,https://lhr.nu.edu.pk/media/Faculty/54_-_Dr._Farooq_Ahmed_Asst._Prof.__HoD_SE.JPG
+6562,Dr. Hajra Waheed,Assistant Professor,False,PhD (CS),hajra.waheed@nu.edu.pk,fsc,518,https://lhr.nu.edu.pk/media/Faculty/48_-_Dr._Hajra_Waheed_Asst_Prof_AI-DS.JPG
+9539,Dr. Haroon Mahmood,Assistant Professor,True,Ph.D(Computer and Control Engineering),haroon.mahmood@nu.edu.pk,fsc,237,https://lhr.nu.edu.pk/media/Faculty/08_-_Dr._Haroon_Mahmood_Asst_Prof_CS.JPG
+6273,Dr. Iqra Safder,Assistant Professor,False,PhD (CS),iqra.safder@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/13_-_Dr._Iqra_Safdar_Asst_Prof_CS.JPG
+9540,Dr. Maryam Bashir,Assistant Professor,True,Ph.D(Computer Science),maryam.bashir@nu.edu.pk,fsc,411,https://lhr.nu.edu.pk/media/Faculty/45_-_Dr._Maryam_Bashir_Asst_Prof_AIDS.JPG
+5114,Dr. Mirza Mubasher Baig,Assistant Professor,True,Ph.D(Computer Science),mubasher.baig@nu.edu.pk,fsc,439,https://lhr.nu.edu.pk/media/Faculty/46-_Dr._Mirza_Mubasher_Baig_Asst._Prof._AI-DS.JPG
+6302,Dr. Syed Mohammad Irteza,Assistant Professor,True,PhD (CS),m.Irteza@nu.edu.pk,fsc,247,https://lhr.nu.edu.pk/media/Faculty/6302_5wrK2JS.png
+6255,Dr. Tahir Ejaz,Assistant Professor,False,PhD (Natural Science),tahir.ejaz@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/12_-_Dr._Tahir_Ejaz_Asst_Prof_CS.JPG
+6048,Dr. Zeeshan Ali Khan,Assistant Professor,True,PhD (Wireless Sensor Networks),zeeshanali.khan@nu.edu.pk,fsc,275,https://lhr.nu.edu.pk/media/Faculty/10_-_Dr._Zeeshan_Ali_Khan_Asst_Prof_CS.JPG
+5466,Dr. Zeeshan Ali Rana,Assistant Professor,True,Ph.D(Computer Science),zeeshan.rana@nu.edu.pk,fsc,328,https://lhr.nu.edu.pk/media/Faculty/56_-_Dr._Zeeshan_Ali_Rana_Asst_Prof_SE.JPG
+5116,Dr. Aatira Anum,Lecturer,False,PhD (CS),aatira.anum@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/Aatira_Anum.jpg
+3720,Mr. Aamir Raheem,Assistant Professor,False,M.S(Computer Science),aamir.raheem@nu.edu.pk,fsc,257,https://lhr.nu.edu.pk/media/Faculty/18-_Aamir_Raheem_Asst._Prof._CS.JPG
+5054,Ms. Abeeda Akram,Assistant Professor,False,M.S(Computer Science),abeeda.akram@nu.edu.pk,fsc,307,https://lhr.nu.edu.pk/media/Faculty/22-_Abeeda_Akram_Asst._Prof._CS.JPG
+4015,Mr. Ishaq Raza,Assistant Professor,False,M.S(Computer Science),ishaq.raza@nu.edu.pk,fsc,214,https://lhr.nu.edu.pk/media/Faculty/17_-_Ishaq_Raza_Asst_Prof_CS.JPG
+4507,Ms. Lehmia Kiran,Assistant Professor,False,M.S(Computer Science),lehmia.kiran@nu.edu.pk,fsc,307,https://lhr.nu.edu.pk/media/Faculty/027_Lehmia_Kiran_AP_CS-removebg-preview.png
+4236,Mr. Muhammad Ahmad Raza,Assistant Professor,False,MS (EE),muhammad.ahmadraza@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/4236_DlE9anc.jpg
+5221,Ms. Noshaba Nasir,Assistant Professor,False,M.S(CS),noshaba.nasir@nu.edu.pk,fsc,219,https://lhr.nu.edu.pk/media/Faculty/028_Noshaba_Nasir_AP_CS-removebg-preview_1.png
+5254,Mr. Omer Ali,Assistant Professor,False,,ali.omer@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/5254_bXX2QKF.jpg
+5115,Ms. Samin Iftikhar,Assistant Professor,False,M.S(CS),samin.iftikhar@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/images.jpeg-5-removebg-preview.png
+4232,Ms. Sobia Tariq Javed,Assistant Professor,False,M.S(Computer Science),sobia.tariq@nu.edu.pk,fsc,353,https://lhr.nu.edu.pk/media/Faculty/21_-_Sobia_Tariq_Javed_Asst_Prof_CS.JPG
+6175,Ms. Tahreem Yasir,Assistant Professor,False,MS (CS),tahreem.yasir@nu.edu.pk,fsc,326,https://lhr.nu.edu.pk/media/Faculty/6175-removebg-preview-removebg-preview.png
+5230,Mr. Waqas Manzoor,Assistant Professor,False,M.S(CS),waqas.manzoor@nu.edu.pk,fsc,237,https://lhr.nu.edu.pk/media/Faculty/20_-_Waqas_Manzoor_Asst_Prof_CS.JPG
+6172,Ms. Aleena Ahmad,Lecturer,False,MS (Software Engineering),aleena.ahmad@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/28_-_Aleena_Ahmad_Lecturer_CS_eicLpEA.JPG
+6311,Ms. Anosha Khan,Lecturer,False,M PHIL(CS),anosha.khan@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/60-_Anosha_Khan_Lecturer_SE.JPG
+6305,Ms. Arooj Khalil,Lecturer,False,MS(CS),arooj.khalil@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/59-_Arooj_Khalil_Lecturer_SE.JPG
+6723,Ms. Asbah Khalid,Lecturer,False,BS,asbah.khalid@lhr.nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/6723.jpg
+6553,Mr. Danyal Farhat,Lecturer,False,MS (CS),danyal.farhat@nu.edu.pk,fsc,520,https://lhr.nu.edu.pk/media/Faculty/6553.jpg
+6274,Mr. Fraz Yousaf,Lecturer,False,BS (CS),fraz.yousaf@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/61_-_Fraz_Yousaf_Lecturer_SE.JPG
+6308,Mr. Hafiz Muhammad Usama Hassan Alvi,Lecturer,False,MPhil (CS),usama.hassan@nu.edu.pk,fsc,257,https://lhr.nu.edu.pk/media/Faculty/24_-_Usama_Hassan_Alvi_Lecturer_CS.JPG
+6306,Ms. Hafsa Tariq Javed,Lecturer,False,,hafsa.tariq@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/04-Hafsa_Tariq_Javed-removebg-preview-removebg-preview.png
+6307,Mr. Hamad Ul Qudous,Lecturer,False,MS,hamad.ulqudous@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/51-_Hamad_Ul_Qudous_Lecturer_AI-DS.JPG
+6551,Ms. Hina Iqbal,Lecturer,False,MSc (SE),hina.iqbal@nu.edu.pk,fsc,526,https://lhr.nu.edu.pk/media/Faculty/54-_Hina_Iqbal_Lecturer_SE.JPG
+6419,Ms. Hira Butt,Lecturer,False,MS(CS),hira.butt@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/37_-_Hira_Butt_Jun._Lecturer_CS_lxWdszd.JPG
+6304,Ms. Hira Ilyas,Lecturer,False,BS (CS),hira.ilyas@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/6304-removebg-preview-removebg-preview.png
+6588,Mr. M. Saif Ul Islam,Lecturer,False,MS (DS),muhammad.saif@nu.edu.pk,fsc,520,https://lhr.nu.edu.pk/media/Faculty/31-_M._Saif_Ul_Islam_Lecturer_CS.JPG
+6277,Ms. Maham Naeem,Lecturer,False,MS (CS),maham.naeem@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/6277.jpg
+6549,Ms. Mamoona Majid,Lecturer,False,MS (CS),mamoona.majid@nu.edu.pk,fsc,431,https://lhr.nu.edu.pk/media/Faculty/65_-_Mamoona_Majid_Lecturer_SE.JPG
+6560,Ms. Mehroze Khan,Lecturer,False,MS (CS),mehroze.khan@nu.edu.pk,fsc,527,https://lhr.nu.edu.pk/media/Faculty/66_-_Mehroze_Khan_Lecturer_SE.JPG
+6295,Ms. Momna Zaneb,Lecturer,False,MS (CS),momna.zaneb@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/58_-_Momna_Zaneb_Lect_SE.jpg
+6415,Mr. Mubashar Hussain,Lecturer,False,MS(CS),mubashar.hussain@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/30_-_Mubashar_HussaIn_Lecturer_CS.jpg
+6114,Mr. Muhammad Naveed,Lecturer,False,BS (CS),muhammad.naveed@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/27_-_Muhammad_Naveed_Lecturer_CS.JPG
+6662,Mr. Muhammad Zeeshan Nazar,Lecturer,False,MS,zeeshan.nazar@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/6662.png
+6554,Ms. Namra Absar,Lecturer,False,M.Phil. (CS),namra.absar@nu.edu.pk,fsc,526,https://lhr.nu.edu.pk/media/Faculty/6554.jpg
+5967,Mr. Razi-uddin,Lecturer,False,MS(CS),razi.uddin@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/57_-_Razi_Uddin_Lecturer_SE.JPG
+6552,Ms. Rubab Anam Janjua,Lecturer,False,MS (CS),rubab.anam@nu.edu.pk,fsc,431,https://lhr.nu.edu.pk/media/Faculty/6552.jpg
+6268,Mr. Saifullah Tanvir,Lecturer,False,BS (CS),saifullah.tanvir@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/26_-_Saifullah_Tanvir_Lecturer_CS.jpg
+6171,Ms. Sana Fatima,Lecturer,False,MS (CS),sana.fatima@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/49-_Sana_Fatima_Lecturer_AI-DS.JPG
+6309,Mr. Syed Uzair Hussain Naqvi,Lecturer,False,MS (CS),uzair.naqvi@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/25_-_Syed_Uzair_Hussain_Lecturer_CS.JPG
+6254,Ms. Syeda Tayyaba Bukhari,Lecturer,False,MS (CS),tayyaba.bukhari@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/50_-_Syeda_Tayyaba_Bukhari_Lecturer_AIDS.JPG
+6066,Ms. Tazeem Haider,Lecturer,False,M.Phil (CS),tazeem.haider@nu.edu.pk,fsc,326,https://lhr.nu.edu.pk/media/Faculty/52-_Tazeem_Haider_Lecturer_AI-DS_WyQbhRR.JPG
+6559,Ms. Umm E Ammarah,Lecturer,False,MPhil (CS),umme.ammarah@nu.edu.pk,fsc,523,https://lhr.nu.edu.pk/media/Faculty/53-_Umm_e_Ammarah_Lecturer_AI-DS.JPG
+6422,Mr. Junaid Hussain Muzammal,Instructor,False,BS(CS),junaid.hussain@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/Junaid_Hussain_Muzammal.jpg
+6144,Mr. Muhammad Mazarib,Instructor,False,BS (CS),muhammad.mazarib@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/43_-_Muhammad_Mazarib_Instructor_CS.png
+6722,Mr. Muhammad Usman Anwer,Instructor,False,BS,usman.anwer@lhr.nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/6722.png
+6719,Ms. Seemab Ayub,Instructor,False,BS,seemab.ayub@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/6719.jpg
+6417,Mr. Sohaib Ahmad,Instructor,False,BS(CS),sohaib.ahmad@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/Sohaib_Ahmad.jpg
+6718,Ms. Sukhan Amir,Instructor,False,BS,sukhan.amir@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/6718.png
+6568,Ms. Syeda Zehra Batool,Instructor,False,MS (CS),zehra.batool@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/6568.jpg
+6663,Ms. Zoha Waheed,Instructor,False,BS,zoha.waheed@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/6663.png
+6253,Ms. Mamoona Akbar Khan,Junior Lecturer,False,BS (CS),mamoona.akbar@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/38-_Mamoona_Akbar_Jun._Lecturer_CS.JPG
+6176,Mr. Nauman Moazzam Hayat,Adj. Faculty,False,MS (EE),nauman.moazzam@nu.edu.pk,fsc,249,https://lhr.nu.edu.pk/media/Faculty/23_-_Nauman_Moazzam_Hayat_Ad._Faculty_CS.jpg
+5986,Mr. Salman Shoaib,Junior Lecturer,False,MS(CS),salman.shoaib@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/40_-_Salman_Shoaib_Instructor_CS.JPG
+6558,Ms. Samman Ashraf,Junior Lecturer,False,MS (CS),samman.ashraf@nu.edu.pk,fsc,None,https://lhr.nu.edu.pk/media/Faculty/39-_Samman_Ashraf_Jun._Lect._CS.JPG
+4198,Dr. Saima Zafar,Professor & HOD,True,Ph.D (Electrical Engineering),saima.zafar@nu.edu.pk,ee,235,https://lhr.nu.edu.pk/media/Faculty/73_-_Dr._Saima_Zafar.JPG
+4108,Dr. S.M. Sajid,Professor,True,Ph.D(Electrical Engineering),sm.sajid@nu.edu.pk,ee,315,https://lhr.nu.edu.pk/media/Faculty/92_-_Dr._S.M._Sajid_Professor_EE.JPG
+5421,Dr. Syed Aun Abbas,Professor,False,Ph.D,aun.abbas@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/93_-_Dr._Aun_Abbas_Professor_EE.JPG
+4980,Dr. Mohsin Kamal,Associate Professor,True,Postdoc – University of Cyprus,mohsin.kamal@nu.edu.pk,ee,235,https://lhr.nu.edu.pk/media/Faculty/96_-_Dr._Mohsin_Kamal_Asst_Prof_EE.JPG
+6414,Dr. Jabran Khan,Assistant Professor,False,PhD (Electronics-Embedded Systems),jabran.khan@nu.edu.pk,ee,247,https://lhr.nu.edu.pk/media/Faculty/Dr._Jabran_Khan.png
+9452,Dr. Kashif Saeed,Assistant Professor,False,Ph.D(Mechanical Engineering),kashif.saeed@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/94_-_Dr._Kashif_Saeed_Asst_Prof._EE.JPG
+4609,Dr. Omer Saleem,Assistant Professor,True,PhD (Electrical Engineering),omer.saleem@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/95_-_Dr._Omer_Saleem_Asst_Prof_EE.JPG
+4023,Mr. Abdul Majid,Assistant Professor,False,M.Sc(Electrical Engineering),abdul.majid@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/98_-_Abdul_Majid_Asst_Prof_EE.JPG
+4233,Ms. Beenish Fatima,Assistant Professor,False,M.S(Telecom Engineering),beenish.fatima@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/102_-_Beenish_Fatima_Asst_Prof_EE.JPG
+4234,Ms. Bushra Rashid,Assistant Professor,False,M.S(Telecom Engineering),bushra.rashid@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/104-_Bushra_Rashid_Asst._Prof._EE.JPG
+3669,Mr. Haris Mujtaba,Assistant Professor,False,M.E.(Engineering),haris.kazmi@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/103_-_Syed_Haris_Mujtaba_Asst_Prof_EE.JPG
+3455,Mr. Kamran Jamal,Assistant Professor,False,M.S(Computer Engineering),kamran.jamal@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/97_-_Kamran_Jamal_Asst_Prof_EE.JPG
+4239,Ms. Maimoona Akram,Assistant Professor,False,M.S(EE),maimoona.akram@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/105-_Maimoona_Akram_Asst._Prof._EE.JPG
+3461,Mr. Mohsin Yousaf,Assistant Professor,False,M.S(Electrical Engineering),mohsin.yousuf@nu.edu.pk,ee,305,https://lhr.nu.edu.pk/media/Faculty/100_-_Mohsin_Yousaf_Asst_Prof_EE.JPG
+4484,Ms. Shazia Haque,Assistant Professor,False,M.S(Information Technology),shazia.haque@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/99_-_Shazia_Haque_Asst_Prof_EE_KlhDgvG.JPG
+3778,Ms. Tamania Javed,Assistant Professor,False,M.Sc(Electrical Engineering (In Progress)),tamania.javaid@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/101_-_Tamania_Javaid_Asst_Prof_EE.JPG
+4394,Ms. Tooba Javed,Assistant Professor,False,M.S(Electrical Engineering),tooba.javed@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/4394.jpg
+3779,Ms. Akbare Yaqub,Lecturer,False,M.S(Electrical Engineering),akbari.yaqoob@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/106_-_Akbare_Yaqub_Lecturer_EE.JPG
+5218,Ms. Aroosa Umair,Lecturer,False,MS(EE),aroosa.umair@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/109_-_Aroosa_Umair_Lecturer_EE.JPG
+5708,Mr. Hamza Yousaf,Lecturer,False,BS(Electrical Engineering),hamza.yousuf@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/112_-_Hamza_Yousuf_Lab_Engg_EE.JPG
+4938,Ms. Samia Mahmood,Lecturer,False,M.S(Computer Engineering),samia.mahmood@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/107_-_Samia_Mahmood_Lecturer_EE.JPG
+4809,Ms. Sara Kiran,Lecturer,False,B.S(Telecom Engineering),sara.kiran@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/108-_Sara_Kiran_Lectuer_EE.JPG
+5231,Mr. Syed Muhammad Ismail,Lecturer,False,M.Sc(Power Electric Machines & Drives),muhammad.ismail@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/110-_Syed_M._Ismail_Lecturer_EE.JPG
+6557,Mr. Umer Altaf,Lecturer,False,MS (EE),umer.altaf@nu.edu.pk,ee,287,https://lhr.nu.edu.pk/media/Faculty/111_-_Umer_Altaf_Lecturer_EE.JPG
+6665,Ms. Eisha Khan,Lab Engineer,False,BS,eisha.khan@nu.edu.pk,ee,None,https://lhr.nu.edu.pk/media/Faculty/6665.png
+9451,Dr. Shahid Ali,Professor & HOD,True,Ph.D(Hydraulics),shahid.ali@nu.edu.pk,cv,339,https://lhr.nu.edu.pk/media/Faculty/69_-_Dr._Shahid_Ali_Prof__HoD_CvL.JPG
+5705,Dr. Syed Ali Rizwan Bukhari,Professor,True,Post-Doctorate,syed.ali@nu.edu.pk,cv,228,https://lhr.nu.edu.pk/media/Faculty/70_-_Dr._Syed_Ali_Rizwan_Professor_CvL.JPG
+5344,Dr. Javaid Ahmad,Associate Professor,False,Ph.D. (Civil Engg.),Javaid.ahmad@nu.edu.pk,cv,228,https://lhr.nu.edu.pk/media/Faculty/5344-removebg-preview.jpg
+6275,Dr. Waseem Mirza,Associate Professor,False,PhD (Pavement),waseem.mirza@nu.edu.pk,cv,None,https://lhr.nu.edu.pk/media/Faculty/09-Dr._M._Waseem_Mirza-removebg-preview.jpg
+6132,Dr. Muhammad Abdullah,Assistant Professor,False,PhD (Civil Engineering),abdullah.rana@nu.edu.pk,cv,429,https://lhr.nu.edu.pk/media/Faculty/73-_Dr._M._Abdullah_Asst._Prof._CvL.JPG
+6047,Dr. Muhammad Umar,Assistant Professor,True,PhD (Civil Engg.),m.umar@nu.edu.pk,cv,450,https://lhr.nu.edu.pk/media/Faculty/72_-_Dr._Muhammad_Umar_Asst_Prof_CvL.JPG
+5818,Dr. Tauqir Ahmed,Assistant Professor,True,PhD(Civil Engineering),tauqir.ahmed@nu.edu.pk,cv,417,https://lhr.nu.edu.pk/media/Faculty/71_-_Dr._Tauqir_Ahmed_Asst_Prof_CvL.JPG
+9513,Mr. Ali Raza Khalid,Assistant Professor,False,M.S(Structural Engineering),aliraza.khalid@nu.edu.pk,cv,433,https://lhr.nu.edu.pk/media/Faculty/76_-_Ali_Raza_Khalid_Asst_Prof_CvL.JPG
+4828,Mr. Irfan Khalid,Assistant Professor,False,MSc (Civil Engg.),irfan.khalid@nu.edu.pk,cv,446,https://lhr.nu.edu.pk/media/Faculty/77_-_Irfan_Khalid_Asst_Prof_CvL.JPG
+4592,Ms. Sarah Asif,Assistant Professor,False,MS (Environmental Management),sarah.asif@nu.edu.pk,cv,452,https://lhr.nu.edu.pk/media/Faculty/74-_Sarah_Asif_Asst._Prof._CvL.JPG
+5360,Mr. Umar Khan Niazi,Assistant Professor,False,MSc(Steel Construction)(Fire Engineering),umar.niazi@nu.edu.pk,cv,218,https://lhr.nu.edu.pk/media/Faculty/75_-_Muhammad_Umar_Khan_Niazi_Asst_Prof_CvL.JPG
+4300,Mr. Asim Iqbal,Lecturer,False,M.Phil,asim.iqbal@nu.edu.pk,cv,None,https://lhr.nu.edu.pk/media/Faculty/82_-_Asim_Iqbal_Lecturer_CvL.JPG
+5553,Mr. Fahad Haseeb,Lecturer,False,MS Civil Engineering,fahad.haseeb@nu.edu.pk,cv,460,https://lhr.nu.edu.pk/media/Faculty/81_-_Fahad_Haseeb_Lecturer_CvL.JPG
+9419,Mr. Irfan Ali,Lecturer,False,M.S(Civil Engineering),irfan.ali@nu.edu.pk,cv,341,https://lhr.nu.edu.pk/media/Faculty/83_-_Irfan_Ali_Lecturer_CvL.JPG
+6703,Mr. Mubashir Islam,Lecturer,False,MS,mubashir.islam@nu.edu.pk,cv,None,https://lhr.nu.edu.pk/media/Faculty/6703.png
+5370,Mr. Shoaib Ameer,Lecturer,False,MSc Structural Engineering,shoaib.ameer@nu.edu.pk,cv,425,https://lhr.nu.edu.pk/media/Faculty/80_-_Shoaib_Ameer_Lecturer_CvL.JPG
+5084,Mr. Waqas Ajmal,Lecturer,False,MS (Civil Engineering),waqas.ajmal@nu.edu.pk,cv,447,https://lhr.nu.edu.pk/media/Faculty/79_-_Waqas_Ajmal_Lecturer_CvL_Nj4c7eP.JPG
+6041,Mr. Anns Tahir,Lab Engineer,False,BS (Civil Engg.),anns.tahir@nu.edu.pk,cv,426,https://lhr.nu.edu.pk/media/Faculty/84_-_Anns_Tahir_Lab_Engineer_CvL.JPG
+6569,Mr. Hamza Ali,Lab Engineer,False,BS (Civil Engineering),hamza.ali@nu.edu.pk,cv,None,https://lhr.nu.edu.pk/media/Faculty/86_-_Hamza_Ali_Lab_Engineer_CvL.JPG
+6571,Ms. Maham Akram,Lab Engineer,False,BS (Civil Engineering),maham.akram@nu.edu.pk,cv,None,https://lhr.nu.edu.pk/media/Faculty/90_-_Maham_Akram_Lab_Engineer_CvL.png
+6573,Ms. Mahnoor,Lab Engineer,False,BS (Civil Engineering),mahnoor.akram@nu.edu.pk,cv,None,https://lhr.nu.edu.pk/media/Faculty/88_-_Mahnoor_Lab_Engineer_CvL.png
+6572,Ms. Malieka Batool,Lab Engineer,False,BS (Civil Engineering),malieka.batool@nu.edu.pk,cv,None,https://lhr.nu.edu.pk/media/Faculty/IMG_5796-removebg-preview_Uykf2b6.png
+6294,Ms. Muzna Anam,Lab Engineer,False,BS (Civil Engg.),muzna.anam@nu.edu.pk,cv,None,https://lhr.nu.edu.pk/media/Faculty/85_-_Muzna_Anam_Lab_Engineer_CvL.JPG
+6570,Mr. Syed M Muneeb,Lab Engineer,False,BS (Civil Engineering),m.muneeb@nu.edu.pk,cv,None,https://lhr.nu.edu.pk/media/Faculty/87_-_Syed_M._Muneeb_Lab_Engineer_CvL.JPG
+3924,Dr. Hamid Hassan,Professor & HOD,True,Ph.D(HRM/Finance),hamid.hassan@nu.edu.pk,fsm,227,https://lhr.nu.edu.pk/media/Faculty/114_-_Dr._Hamid_Hassan_Prof.__HoD_MG.JPG
+4685,Dr. Akbar Azam,Associate Professor,True,Ph.D(General Management),akbar.azam@nu.edu.pk,fsm,343,https://lhr.nu.edu.pk/media/Faculty/115_-_Dr._Akbar_Azam_Assoc_Prof_MG.png
+5014,Dr. Ammar Javed,Assistant Professor,False,PhD (Management),ammar.javed@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/119-_Dr._Ammar_Javed_Asst._Prof._MG.JPG
+6563,Dr. Amna Farrukh,Assistant Professor,False,PhD (Engineering Management),amna.farrukh@nu.edu.pk,fsm,405,https://lhr.nu.edu.pk/media/Faculty/121_-_Dr._Amna_Farrukh_Asst_Prof_MG.JPG
+5816,Dr. Asif Saeed,Assistant Professor,False,PhD(Finance),asif.saeed@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/asif_saeed_MTtNOqS-removebg-preview.jpg
+5712,Dr. Brig Mujahid Hussain,Adjunct Assistant Professor,True,Ph.D(Management),mujahid.hussain@nu.edu.pk,fsm,255,https://lhr.nu.edu.pk/media/Faculty/123_-_Dr._Mujahid_Hussain_Asst_Prof._MG.JPG
+4629,Dr. Fatima Omer,Assistant Professor,False,PhD (Management),fatima.omer@nu.edu.pk,fsm,295,https://lhr.nu.edu.pk/media/Faculty/118_-_Fatima_Omer_Asst_Prof_MG.JPG
+6561,Dr. Komal Kamran,Assistant Professor,False,PhD (MG),komal.kamran@nu.edu.pk,fsm,316,https://lhr.nu.edu.pk/media/Faculty/122_-_Dr._Komal_Kamran_Asst_Prof_MG.JPG
+5423,Dr. Mian Muhammad Atif,Assistant Professor,True,Ph.D(Critical Finance),mian.atif @nu.edu.pk,fsm,252,https://lhr.nu.edu.pk/media/Faculty/116_-_Dr._Mian_M._Atif_Asst._Prof._MG.JPG
+6426,Dr. Umer Iqbal,Assistant Professor,True,Ph.D. in Accounting and Finance,umer.iqbal@nu.edu.pk,fsm,242,https://lhr.nu.edu.pk/media/Faculty/120_-_Dr._Umer_Iqbal_Asst_Prof_MG_nr59AV5.JPG
+9495,Dr. Zia Khan,Assistant Professor,True,Ph.D(Management Sciences),zia.khan@nu.edu.pk,fsm,252,https://lhr.nu.edu.pk/media/Faculty/117-_Dr._Zia_Ullah_Khan_Asst._Prof._MG.JPG
+4483,Mr. Aamer Allauddin,Assistant Professor,False,CPA(Accounting & Finance),allauddin@gmail.com,fsm,None,https://lhr.nu.edu.pk/media/Faculty/124_-_Aamer_Allauddin_Asst_Prof_MG.JPG
+4647,Mr. Shakeel Ahmad,Assistant Professor,False,ACMA(Cost & Management),shakeel.ahmad@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/126_-_Shakeel_Ahmad_Asst_Prof_MG.JPG
+6720,Ms. Amina Tabassum,Lecturer,False,MS,amina.tabassum@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/6720.png
+5517,Ms. Aroosa Safdar,Lecturer,False,MBA(Finance),aroosa.safdar@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/131-_Aroosa_Safdar_Lecturer_MG.JPG
+6383,Ms. Ayesha Arshad,Lecturer,False,M.Phil,ayesha.arshad@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/132_-_Ayesha_Arshad_Lecturer_MG.JPG
+5227,Ms. Beenish Arshad,Lecturer,False,MBA,beenish.arshad@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/128-_Beenish_Arshad_Lecturer_MG.JPG
+5518,Ms. Fatima Habib,Lecturer,False,MBIT(Marketing),fatima.habib@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/127_-_Fatima_Habib_Lecturer_MG.JPG
+5713,Mr. Salmaan Khalil Rahman,Adjunct Lecturer,False,MBA,salmaan.rahman@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/133-_Salmaan_Khalil_Rehman_Adj._Faculty_MG.JPG
+6303,Ms. Sundas Munir,Lecturer,False,CA,sundas.munir@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/130-_Sundas_Munir_Lecturer_MG.JPG
+6115,Ms. Ghulam Fatima,Instructor,False,MBA (AF),ghulam.fatima@nu.edu.pk,fsm,301,https://lhr.nu.edu.pk/media/Faculty/134-_Ghulam_Fatima_Instructor_MG.JPG
+6709,Ms. Iman Ilyas,Instructor,False,BBA,iman.ilyas@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/6709.png
+6565,Ms. Irma Tariq,Instructor,False,BBA,irma.tariq@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/136_-_Irma_Tariq_Instructor_MG.jpg
+6664,Ms. Khadija Aslam,Instructor,False,BBA,khadija.aslam@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/6664.png
+6566,Ms. Noor Zahid,Instructor,False,BBA,noor.zahid@nu.edu.pk,fsm,None,https://lhr.nu.edu.pk/media/Faculty/135-_Noor_Zahid_Instructor_MG.JPG
+4584,Dr. Farasat Shamir,Associate Professor & HOD,True,Ph.D(Mathematics),farasat.shamir@nu.edu.pk,ss,317,https://lhr.nu.edu.pk/media/Faculty/137_-_Dr._Farasat_Shamir_Assoc._Prof_Math__HoD_SH.JPG
+4018,Dr. Summaira Sarfraz,Professor,True,Ph.D(English),sumaira.sarfraz@nu.edu.pk,ss,216,https://lhr.nu.edu.pk/media/Faculty/138_-_Dr._Summaira_Sarfraz_Prof_Eng.jpg
+4020,Dr. Akhlaq Ahmad Bhatti,Professor,True,Ph.D(Mathematics/ Hypergraph Theory),akhlaq.ahmad@nu.edu.pk,ss,284,https://lhr.nu.edu.pk/media/Faculty/139_-_Dr._Akhlaq_Ahmad_Bhatti_Professor_Math.JPG
+3712,Dr. Mazhar Hussain,Professor,True,PhD,mazhar.hussain@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/140_-_Dr._Mazhar_Hussain_Prof_SH.JPG
+4332,Dr. Mubashir Qayyum,Professor,True,PhD (Applied Mathematics),mubashir.qayyum@nu.edu.pk,ss,283,https://lhr.nu.edu.pk/media/Faculty/142_-_Dr._Mubashir_Qayyum_Prof_Math.JPG
+4250,Dr. Saman Shahid,Professor,True,Ph.D. (Environmental Science),saman.shahid@nu.edu.pk,ss,206,https://lhr.nu.edu.pk/media/Faculty/WhatsApp_Image_2023-06-19_at_09.52.55.jpg
+1250,Dr. Saeeda Zia,Associate Professor,True,PhD (Mathematics),saeeda.zia@nu.edu.pk,ss,223,https://lhr.nu.edu.pk/media/Faculty/143_-_Dr._Saeeda_Zia_Assoc_Prof_Math.JPG
+9172,Dr. Hira Iqbal,Assistant Professor,True,PhD (Mathematics),hira.iqbal@nu.edu.pk,ss,347,https://lhr.nu.edu.pk/media/Faculty/9172.jpg
+5437,Dr. Muhammad Tahir Rashid,Assistant Professor,False,PhD (Political Science),tahir.rashid@nu.edu.pk,ss,349,https://lhr.nu.edu.pk/media/Faculty/146_-_Dr._Tahir_Rashid_Asst_Prof_SH.JPG
+9173,Dr. Tayyaba Naz,Assistant Professor,True,Ph.D (Mathematics),tayyaba.naz@nu.edu.pk,ss,347,https://lhr.nu.edu.pk/media/Faculty/145_-_Dr._Tayyaba_Naz_Asst_Prof_SH.JPG
+6112,Dr. Waleed Shehzad,Assistant Professor,False,PhD (English),waleed.shehzad@nu.edu.pk,ss,363,https://lhr.nu.edu.pk/media/Faculty/Dr._Waleed_Shehzad_Asst._Professor_-_Eng-removebg-preview.jpg
+4243,Dr. Zahida Mansoor,Assistant Professor,True,Ph.D(English),zahida.mansoor@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/144_-_Dr._Zahida_Mansoor_Asst_Professor_SH.JPG
+4244,Ms. Hajira Ikram Butt,Assistant Professor,False,MA(ELT),hajra.ikram@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/149_-_Hajra_Ikram_Butt_Asst_Prof_English.JPG
+4608,Ms. Hina Firdous,Assistant Professor,False,M.Phil(Applied Mathematics),hina.firdous@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/150-_Hina_Firdous_Asst._Prof._SH.JPG
+4242,Ms. Raheela Tariq,Assistant Professor,False,M.Phil(Applied Psychology),raheela.tariq@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/147-_Raheela_Tariq_Asst._Prof._SH.JPG
+4245,Mr. Zulfiqar Ali,Assistant Professor,False,M.Phil(Applied Linguistics),ali.zulfiqar@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/148-_Zulfiqar_Ali_Asst._Prof._SH.JPG
+5438,Mr. Abdul Sattar,Lecturer,False,M.Phil(Pakistan Studies),abdul.sattar@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/155_-_Abdul_Sattar_Lecturer_SH.JPG
+5622,Ms. Aisha Bano,Lecturer,False,MPhil,aisha.bano@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/164_-_Aisha_Bano_Lecturer_SH.jpg
+5203,Ms. Ayesha Saeed,Lecturer,False,M. Phil(English Literature),ayesha.saeed@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/154_-_Ayesha_Saeed_Lecturer_SH.JPG
+4397,Mr. Hafiz Hamza Janjua,Lecturer,False,M.A(Islamic Studies),hamza.janjua@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/151_-_Hafiz_M._Hamza_Janjua_Lecturer_SH.JPG
+6179,Ms. Iqra Rafiq,Lecturer,False,MS (Applied Linguistics),iqra.rafiq@nu.edu.pk,ss,272,https://lhr.nu.edu.pk/media/Faculty/6179.png
+6421,Ms. Kanwal Saleem,Lecturer,False,M.Phil (Statistics),kanwal.saleem@nu.edu.pk,ss,324,https://lhr.nu.edu.pk/media/Faculty/160_-_Kanwal_Saleem_Lecturer_Stats.JPG
+6365,Mr. Muhammad Yaseen,Lecturer,False,MS,m.yaseen@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/159_-_Muhammad_Yaseen_Lecturer_Math.JPG
+6178,Ms. Namra Fazal,Lecturer,False,MS (Applied Linguistics),namra.fazal@nu.edu.pk,ss,324,https://lhr.nu.edu.pk/media/Faculty/157-_Namra_Fazal_Lecturer_English.JPG
+5795,Mr. Razm-ul-Zafar,Lecturer,False,MPhil (English),razm.zafar@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/156_-_Razm_Ul_Zafar_Lecturer_English.JPG
+5337,Ms. Sarah Ahmad,Lecturer,False,M.Phil(Statistics),Sarah.ahmad@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/153_-_Sarah_Ahmad_Lecturer_SH.JPG
+6363,Mr. Tasaduque Hussain Shah,Lecturer,False,,tasduque.hussain@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/158_-_Tasaduque_Hussain_Shah_Lecturer_Math.JPG
+6567,Ms. Mahnoor Chaudhry,Instructor,False,M.A  (English),mahnoor.chaudhary@nu.edu.pk,ss,None,https://lhr.nu.edu.pk/media/Faculty/166-_Mahnoor_Chaudhry_Instructor_English.JPG
+6420,Ms. Nokhaiz Zahra,Instructor,False,MA,nokhaiz.zahra@nu.edu.pk,ss,324,https://lhr.nu.edu.pk/media/Faculty/165_-_Nokhaiz_Zahra_Instructor_Eng.JPG
+6181,Ms. Rida Ahmed,Instructor,False,BS (English),rida.ahmed@nu.edu.pk,ss,363,https://lhr.nu.edu.pk/media/Faculty/6181-removebg-preview.jpg
+6555,Ms. Aqsa Naz,Lecturer (English),False,M.Phil (English),aqsa.naz@nu.edu.pk,ss,324,https://lhr.nu.edu.pk/media/Faculty/161_-_Aqsa_Naz_Lecturer_Eng.JPG
+-1,Mr. Hafiz Umair Gulzar,Lecturer (Islamiat),False,M.Phil (Islamic Studies),umair.gulzar@nu.edu.pk,ss,207,https://lhr.nu.edu.pk/media/Faculty/163_-_Hafiz_Umair_Gulzar_Lecturer_SH.JPG
+6548,Ms. Rubab Arshad,Lecturer (English),False,MS (Applied Linguistics),rubab.arshad@nu.edu.pk,ss,286,https://lhr.nu.edu.pk/media/Faculty/162_-_Rubab_Arshad_Lecturer_English.JPG
+6410,Prof. Dr. Zulfiqar Ali Memon ,Professor and HoS,HEC Approved PhD Supervisor,"PhD (Vrije University) Amsterdam, The Netherlands",zulfiqar.memon@nu.edu.pk,CS,214,https://khi.nu.edu.pk/wp-content/uploads/2023/01/Dr-Zulfiqar-Ali-Memon-HOS-FSC.png
+6281,Dr. Farooque Hassan Kumbhar ,Associate Professor and  HOD,HEC approved PhD Supervisor,Programming Fundamentals,farooque.hassan@nu.edu.pk,CS,161,https://khi.nu.edu.pk/wp-content/uploads/2023/02/Dr.-Farooque-Hassan-Kumbhar-Associate-Professor-HOD-CS.jpg
+6455,Dr. Jawwad A. Shamsi,Professor & Dean,HEC approved PhD Supervisor,Not Available,jawwad.shamsi@nu.edu.pk,CS,218,https://khi.nu.edu.pk/wp-content/uploads/2023/01/Dr.-Jawwad-A-Shamsi-Professor.png
+6393,Dr. Muhammad Atif Tahir,Professor and Director,HEC approved PhD Supervisor,Deep Learning,atif.tahir@nu.edu.pk,CS,213,https://khi.nu.edu.pk/wp-content/uploads/2023/01/Prof.-Dr.-Muhammad-Atif-Tahir.png
+6294,Dr. Ghufran Ahmed,Professor,HEC approved PhD Supervisor,"PostDoc (UK), PhD (CS)",ghufran.ahmed@nu.edu.pk,CS,233,https://khi.nu.edu.pk/wp-content/uploads/2023/02/Dr.-Ghufran-Ahmed-Associate-Professor.jpg
+6401,Dr. Nadeem Kafi,Assistant Professor,Not Approved,"BE (Computer Systems), MS (Computer Science), PhD (EE)",Assistant Professor,CS,131,https://khi.nu.edu.pk/wp-content/uploads/2023/02/Dr.-Nadeem-Kafi-Khan-Assistant-Professor-1.jpg
+6410,Dr. Nouman Durrani,Assistant Professor,HEC approved PhD Supervisor,Not Available,muhammad.nouman@nu.edu.pk,CS,133,https://khi.nu.edu.pk/wp-content/uploads/2023/02/Dr.-M-Nouman-Durrani-Assistant-Professor.jpg
+6424,Dr. Fahad Sherwani ,Assistant Professor,HEC approved PhD Supervisor,Not Available,fahad.sherwani@nu.edu.pk,CS,219,https://khi.nu.edu.pk/wp-content/uploads/2023/03/Mr.-Fahad-Sherwani-Assistant-Professor.jpg
+6465,Dr. Farrukh Hasan Syed ,Assistant Professor,HEC approved PhD Supervisor,Not Available,farrukh.hasan@nu.edu.pk,CS,132,https://khi.nu.edu.pk/wp-content/uploads/2023/05/Dr.-Farrukh-Hassan-Syed-Assistant-Professor.jpg
+6532,Dr. Farrukh Salim Shaikh,Assistant Professor,Not Approved,Not Available,farrukh.salim@nu.edu.pk,CS,167,https://khi.nu.edu.pk/wp-content/uploads/2023/05/Dr-Farrukh-Salim-Shaikh-Assistant-Professor-CS.jpg
+6550,Dr. Muhammad Farrukh Shahid ,Assistant Professor,Not Approved,Not Available,mfarrukh.shahid@nu.edu.pk,CS,163,https://khi.nu.edu.pk/wp-content/uploads/2023/05/Dr.-Muhammad-Farrukh-Shahid-Assistant-Professor-.jpg
+6556,Dr. Nausheen Shoaib ,Assistant Professor,Not Approved,"PhD (CS), NUCES, Karachi",nausheen.shoaib@nu.edu.pk,CS,280,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr-Nausheen-Shoaib-Assistant-Professor.jpg
+6567,Mr. Muhammad Jamil,Assistant Professor,Not Approved,"MS (CNC), Hamdard University, Karachi ",m.jamil@nu.edu.pk ,CS,245,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Jamil-Usmani-Assistant-Professor-CS.jpg
+6560,Mr. Muhammad Shahzad,Assistant Professor,Not Approved,"MS (SE), FUUAST, Karachi ",mshahzad@nu.edu.pk,CS,237,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-MUhammad-Shahzad-Assistant-Professor-.jpg
+6564,Mr. Syed Kashan Hussain Naqvi,Assistant Professor,Not Approved,"ME (EE), NED-UET, Karachi ",kashan.hussain@nu.edu.pk,CS,283,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Syed-Kashan-Hussain-Naqvi-Assistant-Professor-CS.jpg
+6575,Ms. Rabia Tabassum,Assistant Professor,Not Approved,"MPhil (Hhydr. & Sust. Water Res. Mgmt.), University of Karachi ",rabia.tabassum@nu.edu.pk,CS,235,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Rabia-Tabassum-Assistant-Professor-CS.jpg
+7107,Dr. Rauf Ahmed Shams Malick,Associate Professor & GSC Coordinator,HEC approved PhD Supervisor,"PhD (CS), University of Karachi ",rauf.malick@nu.edu.pk,CS,140,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Rauf-Ahmed-Shams-Malik-Assistant-Professor-.jpg
+7192,Mr. Ubaid Aftab,Assistant Professor (Adjunct),Not Approved,"MS (IT), Monash University, Australia ",ubaid.aftab@nu.edu.pk,CS,225,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Ubaid-Aftab-Chawla-Adjunct-Assistant-Professor-.jpg
+7389,Mr. Aashir Mahboob,Lecturer,Not Approved,"MS (EE), NUCES, Karachi ",aashir.mahboob@nu.edu.pk,CS,113,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Aashir-Mahboob-Lecturer.jpg
+7196,Ms. Abeeha Sattar,Lecturer,Not Approved,"MS (CS), IBA, Karachi ",abeeha.sattar@nu.edu.pk,CS,160,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Abeeha-Sattar-Lecturer-CS.jpg
+7206,Ms. Anam Qureshi,Lecturer,Not Approved,"ME (CS&N), UET-Mehran , Jamshoro ",anam.qureshi@nu.edu.pk,CS,231,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Anam-Qureshi-Lecturer-CS.jpg
+7213,Ms. Anaum Hamid,Lecturer,Not Approved,"MS (CS&IT), NED-UET, Karachi ",anaum.hamid@nu.edu.pk,CS,237,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Anaum-Hamid-Lecturer.jpg
+7217,Ms. Aqsa Zahid,Lecturer,Not Approved,"MS (CS), NUCES, Karachi ",aqsa.zahid@nu.edu.pk,CS,293,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Aqsa-Zahid-Lecturer-CS.jpg
+7226,Ms. Bakhtawer,Lecturer,Not Approved,"MS (CS), NUCES, Karachi ",bakhtawar.abbasi@nu.edu.pk,CS,136,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Bakhtawer-Lecturer-CS.jpg
+7233,Mr. Basit Ali,Lecturer,Not Approved,"MS (CS), NUCES, Karachi ",basit.jasani@nu.edu.pk,CS,130,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Basit-Ali-Lecturer-CS.jpg
+7237,Ms. Eman Shahid,Lecturer,Not Approved,"MS (SE), MUET, Jamshoro ",eman.shahid@nu.edu.pk,CS,178,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Eman-Shahid-Lecturer-CS.jpg
+7241,Mr. Fahad Hussain,Lecturer,Not Approved,"MS (CS), Sindh Madressatul Islam University, Karachi ",fahad.hussain@nu.edu.pk,CS,136,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Fahad-Hussain-Lecturer-CS-.jpg
+7244,Mr. Faisal Ahmed,Lecturer,Not Approved,"MS (CS), PAF-KIET, Karachi ",faisal.ahmed@nu.edu.pk,CS,170,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Fazsal-Ahmed-Lecturer-CS.jpg
+7247,Ms. Hajra Ahmed,Lecturer,Not Approved,"ME (CS), NED-UET, Karachi ",hajra.ahmed@nu.edu.pk,CS,142,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Hajra-Ahmed-Lecturer-CS.jpg
+7254,Ms. Javeria Farooq,Lecturer,Not Approved,"MS (CS), Bahria University, Karachi ",javeria.farooq@nu.edu.pk,CS,220,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Javeria-Farooq-Lecturer-.jpg
+7257,Ms. Mafaza Mohi,Lecturer,Not Approved,"BE (SE), MUET, Jamshoro",mafaza.mohi@nu.edu.pk,CS,293,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Mafaza-Mohi-Lecturer-CS-1.jpg
+7263,Ms. Mubashra Fayyaz,Lecturer,Not Approved,"MS (CS), NUCES, Karachi ",mubashra.fayyaz@nu.edu.pk,CS,172,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Mubashra-Fayyaz-Lecturer-CS.jpg
+7269,Mr. Muhammad Danish Khan,Lecturer,Not Approved,"MS (CS), Isra University, Hyderabad ",m.danish@nu.edu.pk,CS,244,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Danish-Khan-Lecturer-CS.jpg
+7272,Ms. Nida Munawar,Lecturer,Not Approved,"MS (CS), NUCES, Karachi ",nida.munawwar@nu.edu.pk,CS,136,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Nida-Munawar-Lecturer-CS.jpg
+7276,Ms. Noureen Fatima,Lecturer,Not Approved,"MS (CS), IBA, Karachi",nida.munawwar@nu.edu.pk,CS,160,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Noureen-Fatima-Lecturer-CS.jpg
+7280,Ms. Safia,Lecturer,Not Approved,"MS (CS), NUCES. Karachi ",safia@nu.edu.pk,CS,266,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Safia-Baloch-Lecturer-CS.jpg
+7284,Ms. Shahar Bano Husnine,Lecturer,Not Approved,"MS (CS), NUCES, Lahore",shahar.bano@nu.edu.pk,CS,220,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Shaharbano-Lecturer-CS.jpg
+7290,Mr. Shahroz Bakht,Lecturer,Not Approved,"MS (CS), NUCES, Karachi ",shahroz.bakht@nu.edu.pk,CS,136,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Shahroz-Bakht-Lecturer-CS-.jpg
+7293,Mr. Shoaib Rauf,Lecturer,Not Approved,"MS (SE), Hamdard University, Karachi ",shoaib.rauf@nu.edu.pk,CS,258,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Shoaib-Rauf-Lecturer-CS.jpg
+7298,Ms. Sobia Iftikhar,Lecturer,Not Approved,"ME (SE), UET-Mehran, Karachi ",sobia.iftikhar@nu.edu.pk,CS,237,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Sobia-Iftikhar-Lecturer-CS.jpg
+7306,Ms. Sumaiyah,Lecturer,Not Approved,"MS (DS), NUCES, Karachi",sumaiyah@nu.edu.pk,CS,266,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Sumaiyah-Zahid-Lecturer-CS.jpg
+7310,Mr. Syed Zain Ul Hassan,Lecturer,Not Approved,"MS (CS), NUCES, Karachi ",zain.hassan@nu.edu.pk,CS,197,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Syed-Zain-Ul-Hassan-Lecturer.jpg
+7317,Ms. Yusra Kaleem,Lecturer,Not Approved,"MS (EE), NUST, Karachi ",yusra.kaleem@nu.edu.pk,CS,280,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Yusra-Kaleem-Lecturer-CS.jpg
+7323,Ms. Ayesha Ali,Lecturer,Not Approved,"BS (CS), University of Karachi ",ayesha.ali@nu.edu.pk,CS,293,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ayesha-Alii-Instructor-CS-.jpg
+7328,Mr. Muhammad Monis,Instructor,Not Approved,"BS (SE), UET, Karachi ",muhammad.monis@nu.edu.pk,CS,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Muhammad-Monis-Instructor-CS.jpg
+7345,Mr. Shafique Rahman,Instructor,Not Approved,"BS (CS), IBA, Sukkur ",shafique.rehman@nu.edu.pk,CS,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Shafique-Rehman-Instructor-CS.jpg
+7349,Mr. Shaheer Ahmad Khan,Instructor,Not Approved,"BS (IT), SS-UET, Karachi ",shaheer.khan@nu.edu.pk,CS,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Shaheer-Ahmad-Khan-Instructor-CS.jpg
+7369,Mr. Shakir Hussain,Instructor,Not Approved,"BS (CS), NUCES, Karachi ",shakir.hussain@nu.edu.pk,CS,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Shakir-Hussain-Instructor-CS-.jpg
+7372,Mr. Taha Ahmed,Instructor,Not Approved,"BS (CS), NUCES, Karachi ",taha.ahmed@nu.edu.pk,CS,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Taha-Ahmed-Instructor.jpg
+7375,Mr. Yasir Arfat,Instructor,Not Approved,"MCS, Arid Agriculture University, Rawalpindi ",yasir.arfat@nu.edu.pk,CS,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Yasir-Arfat-Instructor.jpg
+7379,Ms. Zainab Asif Jawed,Instructor,Not Approved,"BS (CS), Preston University, Karachi",zainab.asif@nu.edu.pk,CS,293,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Zainab-Asif-Jawed-Instructor-CS-.jpg
+7386,Dr. Nasir Uddin,Assistant Professor,Not Approved,"PhD (Computer Science), IBA Karachi",nasir.uddin@nu.edu.pk,CS,126,Not Available
+7699,Dr. Fahad Samad,Assistant Professor - Incharge - HEC Approved PhD Supervisor,Not Approved,Discrete Structures,fahad.samad@nu.edu.pk,CyberSecurity,134,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Fahad-Samad-Assistant-Professor-Incharge.jpg
+6684,Dr. Sufian Hameed,Assistant Professor,Not Approved,Not Available,sufian.hameed@nu.edu.pk,CyberSecurity,297,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Sufian-Hameed-Associate-Professor-.jpg
+6627,Mr. Shehbaz Akhtar Siddiqui,Assistant Professor,Not Approved,Not Available,shahbaz.siddiqui@nu.edu.pk,CyberSecurity,132,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Shehbaz-A.-Siddiqui-Assistant-Professor-.jpg
+6630,Mr. Muhammad Kariz Kamal,Lecturer,,"BS (EE), IIU, Islamabad ",kariz.kamal@nu.edu.pk,CyberSecurity,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Kariz-Kamal-Instructor-CS-1.jpg
+6600,Mr. Shoaib Raza,Lecturer,Not Approved,Discrete Structures,shoaib.raza@nu.edu.pk,CyberSecurity,135,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Shoaib-Raza-Lecturer.jpg
+6690,Ms. Rabia Ahmed Ansari,Lecturer,Not Approved,Computer networks,rabia.ansari@nu.edu.pk,CyberSecurity,293,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Rabia-Ahmed-Lecturer.jpg
+6694,Mr. Abuzar Zafar,Lecturer,,"MS (CS), NUCES, Karachi (2022)",abuzar.zafar@nu.edu.pk,CyberSecurity,237,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Abuzar-Zafar-Lecturer-CS.jpg
+6612,Ms. Abeer Gauher,Lecturer,Not Approved,"MS (IS), NUST, Islamabad ",abeer.gauhar@nu.edu.pk,CyberSecurity,142,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Abeer-Gauher-Lecturer-CS.jpg
+7209,Mr. Muhammad Ali, Lecturer,Not Approved,"MS (CNS), NUCES, Karachi ",ali.musavi.shah@nu.edu.pk,CyberSecurity,284,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Muhammad-Ali-Instructor-CS-.jpg
+7339,Dr. Burhan Khan,Assistant Professor & HoD,HEC approved PhD Supervisor,"PhD (Engg.), University of Tunku Abdul Rahman, Malaysia",burhan.khan@nu.edu.pk,Electrical Department,265,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Muhammad-Burhan-Khan-Assistant-Professor-Incharge-EE.jpg
+6981,Dr. Syed Muhammad Atif Saleem,Assistant Professor,Not Approved,"PhD (EE), University of New Brunswick, Canada ", atif.saleem@nu.edu.pk,Electrical Department,272,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Syed-Muhammad-Atif-Saleem-Assistant-Professor-EE.jpg
+6997,Dr. Haider Mehdi,Associate Professor,Not Approved,"PhD (CE), Nanyang Technological University, Singapore ",haider.mehdi@nu.edu.pk,Electrical Department,286,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Haider-Mehdi-Associate-Professor-EE.jpg
+6971,Mr. M. Ahsan Khan Sunny,Assistant Professor,Not Approved,"ME (Industrial Elect.), NED-UET, Karachi",ahsan.khan@nu.edu.pk,Electrical Department,292,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Ahsan-Khan-Assistant-Professor-EE.jpg
+6984,Mr. Muhammad Haris Mohsin,Assistant Professor,Not Approved,"ME (Elect.), NED-UET, Karachi ",haris.mohsin@nu.edu.pk,Electrical Department,285,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Haris-Mohsin-Assistant-Professor-EE.jpg
+6987,Mr. Muhammad Junaid Rabbani,Assistant Professor,Not Approved,"ME (EE), Karlstads University, Sweden",junaid.rabbani@nu.edu.pk,Electrical Department,242,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Junaid-Rabbani-Assistant-Professor-EE.jpg
+6990,Mr. Syed Asim Mahmood,Assistant Professor,Not Approved,"MS (Engg. Mngmt.), CASE, Taxila ",asim.mehmood@nu.edu.pk,Electrical Department,234,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Asim-Mahmood-Assistant-Professor-796x1024-1.jpg
+6993,Ms. Qurat ul Ain Sohail,Assistant Professor,Not Approved,"ME (Comp. Sys.), NED-UET, Karachi",quratulain@nu.edu.pk,Electrical Department,274,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Qurat-ul-ain-Sohail-Assistant-Professor-770x1024-1.jpg
+7003,Mr. Aamir Ali,Lecturer,Not Approved,"MS (EE), NUCES, Karachi ",amir.ali@nu.edu.pk,Electrical Department,211,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Aamir-Ali-Lecturer-770x1024-1.jpg
+7006,Mr. Aqib Noor,Lecturer,Not Approved,"MS (E), Universiti Teknologi Malaysia, Malaysia ", aqib.noor@nu.edu.pk,Electrical Department,282,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Aqib-Noor-Lecturer-770x1024-1.jpg
+7017,Mr. Zakir Hussain,Lecturer,Not Approved,"MS (EE), NUCES, Karachi ",zakir.hussain@nu.edu.pk,Electrical Department,259,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr-Zakir-Hussain-Lecturer-796x1024-1.jpg
+7023,Ms. Maham Ghauri,Lecturer,Not Approved,"MS (EE), NED-UET, Karachi",maham.ghouri@nu.edu.pk,Electrical Department,289,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Maham-Ghauri-Lecturer-770x1024-1.jpg
+7028,Ms. Rukhsar Ali,Lecturer,Not Approved,"MS (EE), NUCES, Karachi ",rukhsar.ali@nu.du.pk,Electrical Department,281,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Rukhasr-Ali-Lecturer-770x1024-1.jpg
+7032,Ms. Sadaf Ayesha,Lecturer,Not Approved,"ME (T), NED-UET, Karachi",sadaf.ayesha@nu.edu.pk,Electrical Department,121,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Sadaf-Ayesha-Lecturer-770x1024-1.jpg
+7038,Mr. Muhammad Misbah Haider Malik,Lab Engineer,Not Approved,"BS (EE), NUCES, Karachi ",misbah.haider@nu.edu.pk,Electrical Department,263,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-M.-Misbah-Haider-Malik-Lab-Engineer-770x1024-1.jpg
+7041,Mr. Usama Bin Umar,Lab Engineer,Not Approved,"BS (EE), NUCES, Karachi ",usama.umar@nu.edu.pk,Electrical Department,263,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Usama-Bin-Umer-Lab-Engineer-770x1024-1.jpg
+7046,Dr. Muhammad Saad,Assistant Professor & HoD,Not Approved,"PhD (F&B), University Utara, Malaysia ",saad.siddiqui@nu.edu.pk,Management Department,124,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Muhammad-Saad-Assistant-Professor-Incharge-FSM.jpg
+7026,Dr. Nazia Nazeer,Assistant Professor,HEC approved PhD Supervisor,"PhD (Eco.), University of Malaya, Malaysia ", nazia.nazeer@nu.edu.pk,Management Department,271,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Nazia-Nazeer-Assistant-Professor.jpg
+7021,Mr. Muhammad Zeeshan Khan,Assistant Professor,Not Approved,"MS (HRM), University of Northumbria, UK ",zeeshan.khan@nu.edu.pk,Management Department,255,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Muhammad-Zeeshan-Khan-Assistant-Professor-.jpg
+7033,Mr. Muhammad Ahsan,Assistant Professor,Not Approved,"MPhil in Finance and Business Management from the University of Bedfordshire, England",muhammadahsan@nu.edu.pk,Management Department,278,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Muhammad-Ahsan-Assistant-Professor.jpg
+7037,Ms. Asiya Zaheer,Lecturer,Not Approved,MS,asiyazaheer@nu.edu.pk,Management Department,217,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Asiya-Zaheer-Lecturer-FSM.jpg
+7047,Mr. Micheal Hieman Simon,Lecturer,Not Approved,"MSc (Eco.), University of Karachi (2005)",micheal.simon@nu.edu.pk,Management Department,275,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Michael-Himon-Simon-Lecturer-FSM.jpg
+7053,Dr. Syed Muhammad Fahad Riaz,Assistant Professor & Incharge (SH),HEC Approved PhD Supervisor,PhD (Mathematics),fahad.riaz@nu.edu.pk,Humanities Department,267,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Syed-Muhammad-Fahad-Riaz-Asst.-Professor-.jpg
+7415,Dr. Khusro Mian,Associate Professor,Not Approved,"PhD (Astro Phy.), University of Karachi ",khusro.mian@nu.edu.pk,Humanities Department,295,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Khusro-Mian-Associate-Professor-S_H.jpg
+7421,Dr. Muhammad Shahzad Shaikh,Assistant Professor,Not Approved,"PhD (Islamic Stud.), University of Karachi ",shahzad.sheikh@nu.edu.pk,Humanities Department,248,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Muhammad-Shahzad-Shaikh-Assistant-Professor-S_H.jpg
+7429,Dr. Nazish Kanwal,Assistant Professor,Not Approved,"PhD (M), IBA, Karachi ",nazish.kanwal@nu.edu.pk,Humanities Department,303,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.Nazish-Kanwal-Assiatant-Professor-S_H.jpg
+7433,Dr. Shahnawaz Muhammad Khan,Assistant Professor,Not Approved,"PhD (Int. Rel.), FUUAST, Islamabad ",-,Humanities Department,305,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr.-Shahnawaz-Mohammad-Khan-Assistant-Professor-S_H.jpg
+7437,Mr. Muhammad Amjad,Assistant Professor,Not Approved,"MSc (Math), University of Karachi ",muhammad.amjad@nu.edu.pk,Humanities Department,261,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Muhammad-Amjad-Assistant-Professor-S_H.jpg
+7425,Ms. Sameera Sultan,Assistant Professor,Not Approved,"MPhil (Edu.), Iqra University, Karachi ",sameera.sultan@nu.edu.pk,Humanities Department,128,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Sameera-Sultan-Assistant-Professor-S_H.jpg
+7443,Ms. Alishba Tariq,Lecturer,Not Approved,"MS (Math), NED-UET, Karachi ",alishba.tariq@nu.edu.pk,Humanities Department,309,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Alishba-Tariq-Lecturer-S_H.jpg
+7446,Ms. Amber Shaikh,Lecturer,Not Approved,"MPhil (Math), University of Karachi ",amber.shaikh@nu.edu.pk,Humanities Department,123,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Amber-Sheikh-Lecturer-S_H.jpg
+7449,Ms. Aqsa Fayyaz,Lecturer,Not Approved,"MS (Pscy.), Bahria University, Islamabad ",aqsa.fayyaz@nu.edu.pk,Humanities Department,192,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Aqsa-Fayyaz-Lecturer-.jpg
+7452,Ms. Asma Masood,Lecturer,Not Approved,"MSc (Math), University of Karachi ",asma.masood@nu.edu.pk,Humanities Department,247,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Asma-Masood-Lecturer-S_H.jpg
+7455,Ms. Faiza Mumtaz,Lecturer,Not Approved,"MBA (Fin.), Bahria University, Karachi ",faiza.mumtaz@nu.edu.pk,Humanities Department,299,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Faiza-Mumtaz-Lecturer.jpg
+7458,Ms. Fareeha Sultan,Lecturer,Not Approved,"MSc (Math), University of Karachi ",fareeha.sultan@nu.edu.pk,Humanities Department,299,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Fareeha-Sultan-Lecturer-S_H.jpg
+7461,Mr. Farhan Ali Memon,Lecturer,Not Approved,"MA (Eng.), NUML, Islamabad  ",farhan.ali@nu.edu.pk,Humanities Department,310,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Farhan-Ali-Memon-Lecturer-S_H.jpg
+7464,Ms. Huma Hafeez,Lecturer,Not Approved,"MPhil (App. Ling.), UMT, Lahore",huma.hafeez@nu.edu.pk,Humanities Department,112,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Huma-Hafeez-Lecturer-S_H.jpg
+7467,Mr. Javed Iqbal,Lecturer,Not Approved,"MA (Eng.), University of Karachi ",javed.iqbal@nu.edu.pk,Humanities Department,112,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Javed-Iqbal-Lecturer.jpg
+7471,Ms. Javeria Ali Wadho,Lecturer,Not Approved,"MS (App. Ling.), NED UET, Karachi ",javeria.ali@nu.edu.pk,Humanities Department,127,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Javeria-Ali-Wadho-Lecturer-S_H.jpg
+7475,Ms. Javeria Iftikhar,Lecturer,Not Approved,"MS (Math), IoBM, Karachi ",javeria.iftikhar@nu.edu.pk,Humanities Department,112,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Javeria-Iftikhar-Lecturer-S_H.jpg
+7480,Mr. Kashif Ahmed,Lecturer,Not Approved,"MPhil (Pak. Stud.), SALU, Khairpur ",kashif.ahmed@nu.edu.pk,Humanities Department,290,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Kashif-Ahmed-Lecturer-S_H.jpg
+7482,Ms. Khadija Shereen,Lecturer,Not Approved,"MS (App. Ling.), NED-UET, Karachi ",khadija.shereen@nu.edu.pk,Humanities Department,127,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Hafiza-Khadija-Shereen-Lecturer-S_H.jpg
+7485,Ms. Madiha Rehman,Lecturer,Not Approved,"MS (App. Ling.), NED UET, Karachi ",madiha.rehman@nu.edu.pk,Humanities Department,251,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Madiha-Rehman-Lecturer-S_H.jpg
+7488,Mr. Maraj,Lecturer,Not Approved,"MS (Math), NED-UET, Karachi ",mairaj@nu.edu.pk,Humanities Department,307,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Maraj-Lecturer-S_H.jpg
+7491,Mr. Muhammad Abdul Basit Khan,Lecturer,Not Approved,"MPhil (Math), FUUAST, Karachi ",abdul.basit@nu.edu.pk,Humanities Department,230,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Abdul-Basit-Khan-Lecturer.jpg
+7494,Mr. Muhammad Hassan Saeed,Lecturer,Not Approved,"MPhil (Isl. Stud.), FUUAST, Karachi ",hassan.saeed@nu.edu.pk,Humanities Department,108,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Muhammad-Hassan-Saeed-Lecturer-1-copy.jpg
+7500,Mr. Muhammad Rameez,Lecturer,Not Approved,"MPhil (Phy.), University of Karachi ",muhammad.rameez@nu.edu.pk,Humanities Department,108,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Muhammad-Rameez-Lecturer-S_H.jpg
+7505,Mr. Muhammad Shahid Ashraf,Lecturer,Not Approved,"MS (Math), IBA, Karachi ",shahid.ashraf@nu.edu.pk,Humanities Department,-,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Muhammad-Shahid-Asharf-Lecturer-S_H.jpg
+7595,Mr. Muhammad Wasif Khan,Lecturer,Not Approved,"MS (App. Ling.), NED-UET, Karachi ",wasif.khan@nu.edu.pk,Humanities Department,243,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Muhammad-Wasif-Lecturer-S_H.jpg
+7598,Mr. Nadeem Khan,Lecturer,Not Approved,"MS (Math), NED-UET, Karach ",nadeem.arif@nu.edu.pk,Humanities Department,246,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Nadeem-Khan-Lecturer-S_H.jpg
+7601,Ms. Nazia Imam,Lecturer,Not Approved,"MPhil (Eng.), Iqra University, Karachi ",nazia.imam@nu.edu.pk,Humanities Department,298,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Nazia-Imam-Lecturer-S_H.jpg
+7604,Ms. Sabeen Amjad,Lecturer,Not Approved,"MS (App. Ling.), NED-UET, Karachi ",sabeen.amjad@nu.edu.pk,Humanities Department,302,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Sabeen-Amjad-Lecturer-S_H.jpg
+7607,Ms. Shahtaj Shakir,Lecturer,Not Approved,"MS (Psy.), Bahria University, Islamabad ",sabeen.amjad@nu.edu.pk,Humanities Department,302,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.Shahtaj-Shakir-Lecturer.jpg
+7610,Ms. Sharmeen Ismail,Lecturer,Not Approved,"MPhil (Eng.), University of Karachi ",sharmeen.ismail@nu.edu.pk,Humanities Department,251,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Sharmeen-Ismail-Lecturer-S_H.jpg
+7614,Syed Waqar Ahmed,Lecturer,Not Approved,"MS (Phy.), LUMS, Lahore ",swaqar.ahmed@nu.edu.pk,Humanities Department,253,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Syed-Waqar-Ahmed-Lecturer-S_H.jpg
+7617,Ms. Syeda Atifa Batool,Lecturer,Not Approved,"MS (App. Ling.), NED University, Karachi ",atifa.batool@nu.edu.pk,Humanities Department,126,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Atifa-Batool-Lecturer-S_H.jpg
+7620,Dr. Muhammad Rafi,Associate Professor and  HOD,Not Approved,-Data Structures, muhammad.rafi@nu.edu.pk,AI Department,222,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr-Muhammad-Rafi-Associate-Professor-AI-_-DS-HOD.jpg
+6666,Dr. Muhammad Waqas,Assistant Professor,Not Approved,Not Available,waqas.sheikh@nu.edu.pk,AI Department,244,https://khi.nu.edu.pk/wp-content/uploads/2023/06/picture-white-background-croped.jpeg
+7704,Syed Farooq Zaidi,Senior Lecturer,,"MS (CS), University of Massachusetts, USA (2012)",farooq.zaidi@nu.edu.pk,AI Department,225,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Syed-Farooq-Ahmed-Zaidi-Senior-Instructor-CS-1.jpg
+6602,Ms. Saeeda Kanwal,Lecturer,Not Approved,Not Available,saeeda.kanwal@nu.edu.pkk,AI Department,220,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms.-Saeeda-Kanwal-Lecturer-2.jpg
+6803,Ms. Hania Usman,Lecturer,Not Approved,"MS (CS), NUST, Karachi ",hania.usman@nu.edu.pk,AI Department,237,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Hania-Usman-Lecturer-CS-1-1.jpg
+6586,Ms. Shazia Paras Shaikh,Lecturer,,"MS (IT), University of Nottingham, UK ",shazia.paras@nu.edu.pk,AI Department,178,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Shazia-Paras-Shaikh-Lecturer-1.jpg
+6597,Ms. Sania Urooj,Lecturer,,"MS (CS), Bahria University, Karachi",sania.urooj@nu.edu.pk,AI Department,172,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Saina-Urooj-Lecturer-CS-1.jpg
+6605,Dr. Abdul Aziz ,Assistant Professor and Coordinator,Not Approved,PhD-IT,abdulaziz@nu.edu.pk,Software Engineering Department,141,https://khi.nu.edu.pk/wp-content/uploads/2023/06/1902.png
+7067,Ms. Iqra Fahad,Lecturer,Not Approved,Not Available,iqra.fahad@nu.edu.pk,Software Engineering Department,237,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Iqra-Fahad-Lecturer-CS.jpg
+7069,Mr. Ali Fatimi,Lecturer,Not Approved,Not Available,ali.shah@nu.edu.pk,Software Engineering Department,257,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Muhammad-Ali-Sah-Fatmi-Lecturer.jpg
+7072,Ms. Naz Memon,Lecturer,Not Approved,Not Available,naz.memon@nu.edu.pk,Software Engineering Department,160,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Naz-Memon-Lecturer-CS.jpg
+7071,Ms. Syeda Rubab,Lecturer,Not Approved,Not Available,syeda.rubab@nu.edu.pk,Software Engineering Department,279,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ms-Syeda-Rubab-Manzar-Lecturer-CS.jpg
+7076,Mr. Minhal Raza,Lecturer,Not Approved,Not Available,minhal.raza@nu.edu.pk,Software Engineering Department,190,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Muhammad-Minhal-Raza-Lecturer-CS-.jpg
+7077,Mr. Muhammad Nadeem,Instructor,Not Approved,Not Available,muhammad.nadeem@nu.edu.pk,Software Engineering Department,293,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Mr.-Muhammad-Nadeem-Instructor-CS.jpg
+7081,Ms. Ayesha Ali,Instructor,Not Approved,Not Available,ayesha.ali@nu.edu.pk,Software Engineering Department,293,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Ayesha-Ali-Siddqui-Instructor-CS-.jpg
+7082,Dr. Syed Muazzam Ali Shah, Assistant Professor,Not Approved,Not Available,muazzam.ali@nu.edu.pk,Software Engineering Department,130,https://khi.nu.edu.pk/wp-content/uploads/2023/06/Dr-Syed-Muazzam-Ali-Shah-Assistant-Professor.jpg
+4553,Waseem Shahzad,Director & Professor,,,waseem.shahzad@nu.edu.pk,cs,101,http://isb.nu.edu.pk/Images/Profile/CS/4553.jpg
+3629,Kashif Munir,"Head, School of Computing & Professor",,,kashif.munir@nu.edu.pk,cs,626,http://isb.nu.edu.pk/Images/Profile/CS/36292021-01-21_23.28.18.jpg
+4400,Hammad Majeed,HoD (Computer Science) & Professor,,,hammad.majeed@nu.edu.pk,cs,672,http://isb.nu.edu.pk/Images/Profile/CS/4400.jpg
+4551,Hasan Mujtaba Kiyani,HoD (Artificial Intelligence & Data Science) & Professor,,,hasan.mujtaba@nu.edu.pk,cs,508,http://isb.nu.edu.pk/Images/Profile/CS/4551.jpg
+5099,Muhammad Asim,HoD (Cyber Security) & Professor,,,muhammad.asim@nu.edu.pk,cs,503,http://isb.nu.edu.pk/Images/Profile/CS/5099.jpg
+5689,Naveed Ahmad,HoD (Software Engineering) & Professor,,,naveed.ahmad@nu.edu.pk,cs,645,http://isb.nu.edu.pk/Images/Profile/CS/5689.jpg
+5002,Aftab Maroof,Professor,,,aftab.maroof@nu.edu.pk,cs,128,http://isb.nu.edu.pk/Images/Profile/CS/50022020-09-30_00.03.16.jpg
+5724,Muhammad Arshad Islam,Professor,,,arshad.islam@nu.edu.pk,cs,640,http://isb.nu.edu.pk/Images/Profile/CS/5724.jpg
+5783,Muhammad Asif Naeem,Professor,,,asif.naeem@nu.edu.pk,cs,654,http://isb.nu.edu.pk/Images/Profile/CS/5783.jpg
+5823,Muhammad Aleem,Professor,,,m.aleem@nu.edu.pk,cs,629,http://isb.nu.edu.pk/Images/Profile/CS/5823.jpg
+6259,Ahmad Raza Shahid,Professor,,,ahmadraza.shahid@nu.edu.pk,cs,634,http://isb.nu.edu.pk/Images/Profile/CS/6259.jpg
+9214,Mirza Omer Beg,Professor,,,omer.beg@nu.edu.pk,cs,652,http://isb.nu.edu.pk/Images/Profile/CS/9214.jpg
+6478,Ahmad Din,Associate Professor,,,ahmad.din@nu.edu.pk,cs,506,http://isb.nu.edu.pk/Images/Profile/CS/6478.jpg
+6479,Mohsin Bilal,Associate Professor,,,mohsin.bilal@nu.edu.pk,cs,511,http://isb.nu.edu.pk/Images/Profile/CS/6479.jpg
+5791,Noreen Jamil,Associate Professor,,,noreen.jamil@nu.edu.pk,cs,631,http://isb.nu.edu.pk/Images/Profile/CS/5791.jpg
+6026,Mudassar Aslam,Associate Professor,,,mudassar.aslam@nu.edu.pk,cs,699,http://isb.nu.edu.pk/Images/Profile/CS/60262021-01-24_23.07.00.jpg
+6139,Akhtar Jamil,Associate Professor,,,akhtar.jamil@nu.edu.pk,cs,633,http://isb.nu.edu.pk/Images/Profile/CS/6139_20211001.jpg
+5586,Khubaib Amjad,Associate Professor,,,khubaib.amjad@nu.edu.pk,cs,636,http://isb.nu.edu.pk/Images/Profile/CS/5586_20211001.jpg
+5643,Kifayat Ullah Khan,Associate Professor,,,kifayat.alizai@nu.edu.pk,cs,696,http://isb.nu.edu.pk/Images/Profile/CS/5643.jpg
+5690,Shujaat Hussain Kausar,Associate Professor,,,shujaat.hussain@nu.edu.pk,cs,501,http://isb.nu.edu.pk/Images/Profile/CS/5690.jpg
+5196,Irum Inayat,Associate Professor,,,irum.inayat@nu.edu.pk,cs,642,http://isb.nu.edu.pk/Images/Profile/CS/5196.jpg
+5200,Usman Habib,Associate Professor,,,usman.habib@nu.edu.pk,cs,-1,http://isb.nu.edu.pk/Images/Profile/CS/5200.jpg
+4708,Uzair Khan,Associate Professor,,,uzair.khan@nu.edu.pk,cs,505,http://isb.nu.edu.pk/Images/Profile/CS/4708.jpg
+4894,Ejaz Ahmed,Associate Professor,,,ejaz.ahmed@nu.edu.pk,cs,647,http://isb.nu.edu.pk/Images/Profile/CS/4894.jpg
+5249,Labiba Fahad,Associate Professor,,,labiba.fahad@nu.edu.pk,cs,637,http://isb.nu.edu.pk/Images/Profile/CS/5249.jpg
+6297,Qaisar Shafi,Assistant Professor,,,qaisar.shafi@nu.edu.pk,cs,514,http://isb.nu.edu.pk/Images/Profile/CS/6297.jpg
+6283,Hassan Sartaj,Assistant Professor,,,hassan.sartaj@nu.edu.pk,cs,321,http://isb.nu.edu.pk/Images/Profile/CS/6283.jpg
+5815,Amina Asif,Assistant Professor,,,amina.asif@nu.edu.pk,cs,699,http://isb.nu.edu.pk/Images/Profile/CS/5815.jpg
+6405,M. Ishtiaq,Assistant Professor,,,m.ishtiaq@nu.edu.pk,cs,676,http://isb.nu.edu.pk/Images/Profile/CS/6405.jpg
+6579,Ramoza Ahsan,Assistant Professor,,,ramoza.ahsan@nu.edu.pk,cs,-1,http://isb.nu.edu.pk/Images/Profile/CS/6579.jpg
+6606,Isma Ul Hassan,Assistant Professor,,,isma.hassan@nu.edu.pk,cs,699,http://isb.nu.edu.pk/Images/Profile/CS/6606.jpg
+9387,Javaria Imtiaz,Assistant Professor,,,javaria.imtiaz@nu.edu.pk,cs,651,http://isb.nu.edu.pk/Images/Profile/CS/9387_20211001.jpg
+5250,Amna Irum,Assistant Professor,,,amna.irum@nu.edu.pk,cs,632,http://isb.nu.edu.pk/Images/Profile/CS/5250.jpg
+4381,Jawad Hassan Nisar,Assistant Professor,,,jawad.hassan@nu.edu.pk,cs,630,http://isb.nu.edu.pk/Images/Profile/CS/4381.jpg
+4401,Atif Aftab Ahmed Jilani,Assistant Professor,,,atif.jilani@nu.edu.pk,cs,677,http://isb.nu.edu.pk/Images/Profile/CS/4401.jpg
+4549,Noor Ul Ain,Assistant Professor,,,noorul.ain@nu.edu.pk,cs,656,http://isb.nu.edu.pk/Images/Profile/CS/4549.jpg
+3949,Mehreen Alam,Assistant Professor,,,mehreen.alam@nu.edu.pk,cs,639,http://isb.nu.edu.pk/Images/Profile/CS/3949.jpg
+4129,Amna Basharat,Assistant Professor,,,amna.basharat@nu.edu.pk,cs,638,http://isb.nu.edu.pk/Images/Profile/CS/4129.jpg
+5425,Muhammad Adnan Tariq,Assistant Professor,,,muhammad.adnan@nu.edu.pk,cs,678,http://isb.nu.edu.pk/Images/Profile/CS/5425.jpg
+6032,Zainab Abaid,Assistant Professor,,,zainab.abaid@nu.edu.pk,cs,676,http://isb.nu.edu.pk/Images/Profile/CS/60322021-02-08_00.56.12.png
+6131,Muhammad Muneeb Ullah,Assistant Professor,,,muneeb.ullah@nu.edu.pk,cs,641,http://isb.nu.edu.pk/Images/Profile/CS/6131_20211001.jpg
+6134,Uzair Iqbal,Assistant Professor,,,uzair.iqbal@nu.edu.pk,cs,-1,http://isb.nu.edu.pk/Images/Profile/CS/6134.jpg
+6079,Behjat Zuhaira,Assistant Professor,,,behjat.zuhaira@nu.edu.pk,cs,650,http://isb.nu.edu.pk/Images/Profile/CS/60792021-04-21_08.47.08.JPG
+5829,Muhammad Faisal Cheema,Assistant Professor,,,faisal.cheema@nu.edu.pk,cs,515,http://isb.nu.edu.pk/Images/Profile/CS/5829.jpg
+5830,Subhan Ullah,Assistant Professor,,,subhan.ullah@nu.edu.pk,cs,500,http://isb.nu.edu.pk/Images/Profile/CS/5830.jpg
+5876,Shafaq Riaz Bhatti,Lecturer,,,shafaq.riaz@nu.edu.pk,cs,504,http://isb.nu.edu.pk/Images/Profile/CS/5876.jpg
+5880,Ayesha Kamran,Lecturer,,,ayesha.kamran@nu.edu.pk,cs,341,http://isb.nu.edu.pk/Images/Profile/CS/5880.jpg
+5883,Parisa Salma,Lecturer,,,parisa.salma@nu.edu.pk,cs,343,http://isb.nu.edu.pk/Images/Profile/CS/5883.JPG
+5970,Maheen Arshad,Lecturer,,,Maheen.Arshad@nu.edu.pk,cs,507,http://isb.nu.edu.pk/Images/Profile/CS/59702020-09-03_02.13.07.jpg
+5976,Sara Afzal,Lecturer,,,Sara.Afzal@nu.edu.pk,cs,326,http://isb.nu.edu.pk/Images/Profile/CS/59762020-09-03_02.12.04.jpg
+5977,Syeda Farwa Batool,Lecturer,,,Syeda.Batool@nu.edu.pk,cs,511,http://isb.nu.edu.pk/Images/Profile/CS/59772020-09-03_02.11.33.png
+5981,Ifrah Qaiser,Lecturer,,,ifrah.qaiser@nu.edu.pk,cs,518,http://isb.nu.edu.pk/Images/Profile/CS/5981_20211001.jpg
+5793,Ameen Chilwan,Lecturer,,,ameen.chilwan@nu.edu.pk,cs,633,http://isb.nu.edu.pk/Images/Profile/CS/5793.jpg
+5825,Saba Kanwal,Lecturer,,,Saba.Kanwal@nu.edu.pk,cs,347,http://isb.nu.edu.pk/Images/Profile/CS/5825.jpg
+5790,Umair Arshad,Lecturer,,,umair.arshad@nu.edu.pk,cs,648,http://isb.nu.edu.pk/Images/Profile/CS/5790.jpg
+6109,Hina Binte Haq,Lecturer,,,hina.haq@nu.edu.pk,cs,512,http://isb.nu.edu.pk/Images/Profile/CS/6109_20211001.jpg
+6110,Urooj Ghani,Lecturer,,,urooj.ghani@nu.edu.pk,cs,263,http://isb.nu.edu.pk/Images/Profile/CS/6110_20211001.jpg
+6067,Owais Idrees,Lecturer,,,Owais.idrees@nu.edu.pk,cs,697,http://isb.nu.edu.pk/Images/Profile/CS/6067.jpg
+6229,Nimra Shahid,Lecturer,,,nimra.shahid@nu.edu.pk,cs,268,http://isb.nu.edu.pk/Images/Profile/CS/6229.jpg
+6247,Pir Sami Ullah Shah,Lecturer,,,samiullah.shah@nu.edu.pk,cs,321,http://isb.nu.edu.pk/Images/Profile/CS/6247.jpg
+6248,Mehreen Javaid,Lecturer,,,mehreen.javaid@nu.edu.pk,cs,666,http://isb.nu.edu.pk/Images/Profile/CS/6248.jpg
+5465,Majid Hussain,Lecturer,,,majid.hussain@nu.edu.pk,cs,206,http://isb.nu.edu.pk/Images/Profile/CS/5465.jpg
+5537,Sidra Khalid,Lecturer,,,sidra.khalid@nu.edu.pk,cs,519,http://isb.nu.edu.pk/Images/Profile/CS/5537.jpg
+5687,Shams Farooq,Lecturer,,,shams.farooq@nu.edu.pk,cs,653,http://isb.nu.edu.pk/Images/Profile/CS/5687.jpg
+5691,Uzma Mahar,Lecturer,,,uzma.mahar@nu.edu.pk,cs,643,http://isb.nu.edu.pk/Images/Profile/CS/5691.JPG
+5692,Syed M.Saad Salman,Lecturer,,,saad.salman@nu.edu.pk,cs,516,http://isb.nu.edu.pk/Images/Profile/CS/5692.jpg
+5693,Bilal Khalid Dar,Lecturer,,,bilal.khalid@nu.edu.pk,cs,698,http://isb.nu.edu.pk/Images/Profile/CS/5693.jpg
+5694,Shehr Bano,Lecturer,,,shehr.bano@nu.edu.pk,cs,263,http://isb.nu.edu.pk/Images/Profile/CS/5694.JPG
+5704,Madiha Umar,Lecturer,,,madiha.umar@nu.edu.pk,cs,173,http://isb.nu.edu.pk/Images/Profile/CS/5704.jpg
+5723,Humera Sabir,Lecturer,,,humera.sabir@nu.edu.pk,cs,666,http://isb.nu.edu.pk/Images/Profile/CS/5723.jpg
+5201,Hassan Raza,Lecturer,,,hassan.raza@nu.edu.pk,cs,649,http://isb.nu.edu.pk/Images/Profile/CS/5201.jpg
+5212,Shoaib Mehboob,Lecturer,,,shoaib.mehboob@nu.edu.pk,cs,679,http://isb.nu.edu.pk/Images/Profile/CS/5212.jpg
+9489,Shehreyar Rashid,Lecturer,,,shehreyar.rashid@nu.edu.pk,cs,655,http://isb.nu.edu.pk/Images/Profile/CS/9489.jpg
+9242,Shoaib Saleem Khattak,Lecturer,,,shoaib.saleem@nu.edu.pk,cs,611,http://isb.nu.edu.pk/Images/Profile/CS/9242.jpg
+6408,Muhammad Abdullah Abid,Lecturer,,,abdullah.abid@nu.edu.pk,cs,-1,http://isb.nu.edu.pk/Images/Profile/CS/6408.jpg
+6438,Adil Majeed,Lecturer,,,adil.majeed@nu.edu.pk,cs,518,http://isb.nu.edu.pk/Images/Profile/CS/6438.jpg
+6451,Saira Qamar,Lecturer,,,saira.qamar@nu.edu.pk,cs,-1,http://isb.nu.edu.pk/Images/Profile/CS/6451.jpg
+6609,Shahela Saif,Lecturer,,,shahela.saif@nu.edu.pk,cs,347,http://isb.nu.edu.pk/Images/Profile/CS/6609.jpg
+6610,Tajwar Mehmood,Lecturer,,,tajwar.mehmood@nu.edu.pk,cs,-1,http://isb.nu.edu.pk/Images/Profile/CS/6610.jpg
+6613,Nirmal Tariq,Lecturer,,,nirmal.tariq@nu.edu.pk,cs,526,http://isb.nu.edu.pk/Images/Profile/CS/6613.jpg
+6528,Muhammad Almas Khan,Lecturer,,,muhammad.almas@nu.edu.pk,cs,306,http://isb.nu.edu.pk/Images/Profile/CS/6528.jpg
+6529,Mehmood Ul Hassan,Lecturer,,,mehmood.hassan@nu.edu.pk,cs,513,http://isb.nu.edu.pk/Images/Profile/CS/6529.jpg
+6534,Khadija Mahmood,Lecturer,,,khadija.mahmood@nu.edu.pk,cs,307,http://isb.nu.edu.pk/Images/Profile/CS/6534.jpg
+6508,Zaheer Ul Hussain Sani,Lecturer,,,zaheer.sani@nu.edu.pk,cs,-1,http://isb.nu.edu.pk/Images/Profile/CS/6508.jpg
+6263,Laraib Afzaal,Lecturer,,,laraib.afzaal@nu.edu.pk,cs,603,http://isb.nu.edu.pk/Images/Profile/CS/6263.jpg
+6244,Irfan Ullah,Lecturer,,,irfan.ullah@nu.edu.pk,cs,609,http://isb.nu.edu.pk/Images/Profile/CS/6244.jpg
+6260,Maryam Shahbaz,Lecturer,,,maryam.shahbaz@nu.edu.pk,cs,263,http://isb.nu.edu.pk/Images/Profile/CS/6260.jpg
+6261,Bushra Amjad,Lecturer,,,bushra.amjad@nu.edu.pk,cs,268,http://isb.nu.edu.pk/Images/Profile/CS/6261.jpg
+6296,Marium Hida,Lecturer,,,marium.hida@nu.edu.pk,cs,603,http://isb.nu.edu.pk/Images/Profile/CS/6296.jpg
+6379,Ansa Liaqat,Lecturer,,,ansa.liaqat@nu.edu.pk,cs,303,http://isb.nu.edu.pk/Images/Profile/CS/6379.jpg
+6384,Zoya Sumbul Zaheer,Instructor,,,zoya.sumbul@nu.edu.pk,cs,307,http://isb.nu.edu.pk/Images/Profile/CS/6384.jpg
+6385,Sunduss Aamir Khan,Instructor,,,sunduss.aamir@nu.edu.pk,cs,307,http://isb.nu.edu.pk/Images/Profile/CS/6385.jpg
+6387,Sadia Saad,Instructor,,,sadia.saad@nu.edu.pk,cs,307,http://isb.nu.edu.pk/Images/Profile/CS/6387.jpg
+6388,Bushra Fatima Tariq,Instructor,,,bushra.fatima@nu.edu.pk,cs,307,http://isb.nu.edu.pk/Images/Profile/CS/6388.jpg
+6262,Salman Iqbal,Instructor,,,salman.iqbal@nu.edu.pk,cs,307,http://isb.nu.edu.pk/Images/Profile/CS/6262.jpg
+6245,M Naveed Khurshid,Instructor,,,naveed.khurshid@nu.edu.pk,cs,306,http://isb.nu.edu.pk/Images/Profile/CS/6245.jpg
+6246,Muhammad Nasir Zafar,Instructor,,,nasir.zafar@nu.edu.pk,cs,302,http://isb.nu.edu.pk/Images/Profile/CS/6246.jpg
+6521,Laiba Imran,Instructor,,,laiba.imran@nu.edu.pk,cs,307,http://isb.nu.edu.pk/Images/Profile/CS/6521.jpg
+6406,Sher Bano,Instructor,,,sher.bano@nu.edu.pk,cs,-1,http://isb.nu.edu.pk/Images/Profile/CS/6406.jpg
+6375,Hummayoun Mustafa Mazhar,Instructor,,,hummayoun.mustafa@nu.edu.pk,cs,-1,http://isb.nu.edu.pk/Images/Profile/CS/6375.jpg
+6377,Obaid Ullah,Instructor,,,obaid Ullah@nu.edu.pk,cs,307,http://isb.nu.edu.pk/Images/Profile/CS/6377.jpg
+6249,Javeria Zia,Instructor,,,javeria.zia@nu.edu.pk,cs,387,http://isb.nu.edu.pk/Images/Profile/CS/6249.jpg
+6252,Hira Mastoor,Instructor,,,hira.mastoor@nu.edu.pk,cs,603,http://isb.nu.edu.pk/Images/Profile/CS/6252.jpg
+6240,Muhammad Hanan,Instructor,,,muhammad.hanan@nu.edu.pk,cs,321,http://isb.nu.edu.pk/Images/Profile/CS/6240.jpg
+6243,Arslan Aslam,Instructor,,,arslan.aslam@nu.edu.pk,cs,302,http://isb.nu.edu.pk/Images/Profile/CS/6243.jpg
+6143,Amina Siddique,Instructor,,,amina.siddique@nu.edu.pk,cs,342,http://isb.nu.edu.pk/Images/Profile/CS/6143_20211001.jpg
+6159,Amna Hassan,Instructor,,,amna.hassan@nu.edu.pk,cs,342,http://isb.nu.edu.pk/Images/Profile/CS/6159_20211001.jpg
+6111,Sana Razzaq,Instructor,,,sana.razzaq@nu.edu.pk,cs,347,http://isb.nu.edu.pk/Images/Profile/CS/6111_20211001.jpg
+6123,Riva Malik,Instructor,,,riva.malik@nu.edu.pk,cs,347,http://isb.nu.edu.pk/Images/Profile/CS/6123_20211001.jpg
+5677,Neelofar Niazi,Assistant Manager (Coordination),,,neelofar.niazi@nu.edu.pk,cs,627,http://isb.nu.edu.pk/Images/Profile/CS/5677.jpg
+5582,Amir Rehman,Academic Officer,,,amir.rehman@nu.edu.pk,cs,623,http://isb.nu.edu.pk/Images/Profile/CS/5582.jpg
+5393,Fahad Shahzad,Academic Officer,,,fahad.shahzad@nu.edu.pk,cs,622,http://isb.nu.edu.pk/Images/Profile/CS/5393.jpg
+4154,Shakeel Ahmed Kiyani,Academic Officer,,,shakeel.kiyani@nu.edu.pk,cs,635,http://isb.nu.edu.pk/Images/Profile/CS/4154.jpg
+5774,Abdul Qadoos,Academic Officer,,,abdul.qadoos@nu.edu.pk,cs,525,http://isb.nu.edu.pk/Images/Profile/FSM/57742021-04-22_14.13.10.png
+5912,Baber Shahzad,Assistant Academic Officer,,,baber.shahzad@nu.edu.pk,cs,525,http://isb.nu.edu.pk/Images/Profile/CS/5912.jpg
+5922,Ayesha Yaqub Malik,Assistant Academic Officer,,,ayesha.yaqub@nu.edu.pk,cs,624,http://isb.nu.edu.pk/Images/Profile/CS/59222021-04-27_09.55.26.jpg
+6683,Imran Ashraf,Assistant Professor,,,imran.ashraf@isb.nu.edu.pk,cs,632,http://isb.nu.edu.pk/Images/Profile/CS/6683.jpg
+6540,Nayab Razzaq,Department Secretary,,,nayab.razzaq@nu.edu.pk,cs,671,http://isb.nu.edu.pk/Images/Profile/CS/6540.jpg
+6527,Madiha Khan,Department Secretary,,,madiha.khan@nu.edu.pk,cs,644,http://isb.nu.edu.pk/Images/Profile/CS/6527.jpg
+6350,Muhammad Aadil,Assistant Academic Officer,,,m.aadil@nu.edu.pk,cs,623,http://isb.nu.edu.pk/Images/Profile/CS/6350.jpg
+6351,Syed Shaharyar Yousaf,Assistant Academic Officer,,,Shaharyar.yousaf@nu.edu.pk,cs,622,http://isb.nu.edu.pk/Images/Profile/CS/6351.jpg
+4848,Muhammad Tariq,HOD & Professor,,,tariq.khan@nu.edu.pk,ee,356,http://isb.nu.edu.pk/Images/Profile/CS/4848.jpg
+5004,Waseem Ikram,Professor,,,waseem.ikram@nu.edu.pk,ee,101,http://isb.nu.edu.pk/Images/Profile/EE/5004.jpg
+5522,Mukhtar Ullah,Professor,,,mukhtar.ullah@nu.edu.pk,ee,104,http://isb.nu.edu.pk/Images/Profile/EE/5522.jpg
+5619,Rashad Ramzan,Professor,,,rashad.ramzan@nu.edu.pk,ee,389,http://isb.nu.edu.pk/Images/Profile/EE/5619.jpg
+9150,Ataul Aziz Ikram,Professor,,,ata.ikram@nu.edu.pk,ee,340,http://isb.nu.edu.pk/Images/Profile/EE/9150.jpg
+6390,Niaz Ahmed,Associate Professor,,,niaz.ahmed@nu.edu.pk,ee,254,http://isb.nu.edu.pk/Images/Profile/EE/6390.jpg
+4278,Arshad Hassan Khan,Associate Professor,,,arshad.hassan@nu.edu.pk,ee,258,http://isb.nu.edu.pk/Images/Profile/EE/4278.jpg
+4283,Aamer Hafeez,Assistant Professor,,,aamer.hafeez@nu.edu.pk,ee,108,http://isb.nu.edu.pk/Images/Profile/EE/4283.jpg
+4340,Sana Hassan,Assistant Professor,,,sana.hassan@nu.edu.pk,ee,105,http://isb.nu.edu.pk/Images/Profile/EE/4340.jpg
+3441,Aamer Munir,Assistant Professor,,,aamer.munir@nu.edu.pk,ee,189,http://isb.nu.edu.pk/Images/Profile/EE/3441.jpg
+3625,Farhan Khalid,Assistant Professor,,,farhan.khalid@nu.edu.pk,ee,188,http://isb.nu.edu.pk/Images/Profile/EE/3625.jpg
+3707,Azhar Rauf,Assistant Professor,,,azhar.rauf@nu.edu.pk,ee,109,http://isb.nu.edu.pk/Images/Profile/EE/3707.jpg
+3730,Shahid Qureshi,Assistant Professor,,,shahid.qureshi@nu.edu.pk,ee,185,http://isb.nu.edu.pk/Images/Profile/EE/3730.jpg
+4518,Waqas Bin Abbas,Assistant Professor,,,waqas.abbas@nu.edu.pk,ee,254,http://isb.nu.edu.pk/Images/Profile/EE/4518.jpg
+3844,Shehzad Ahmad,Assistant Professor,,,shehzad.ahmad@nu.edu.pk,ee,361,http://isb.nu.edu.pk/Images/Profile/EE/3844.jpg
+3990,M. Ibrar Khan,Assistant Professor,,,ibrar.khan@nu.edu.pk,ee,185,http://isb.nu.edu.pk/Images/Profile/EE/3990.jpg
+4141,Muhammad Saeed,Assistant Professor,,,muhammad.saeed@nu.edu.pk,ee,365,http://isb.nu.edu.pk/Images/Profile/EE/4141.jpg
+5620,Muhammad Jafar,Assistant Professor,,,muhammad.jafar@nu.edu.pk,ee,186,http://isb.nu.edu.pk/Images/Profile/EE/5620.jpg
+5953,Hassan Saif,Assistant Professor,,,hassan.saif@nu.edu.pk,ee,-1,http://isb.nu.edu.pk/Images/user/avatar_2x.png
+4738,Shahzad Saleem,Assistant Professor,,,shahzad.saleem@nu.edu.pk,ee,255,http://isb.nu.edu.pk/Images/Profile/EE/4738.jpg
+5055,Sana Saleh,Lecturer,,,sana.saleh@nu.edu.pk,ee,374,http://isb.nu.edu.pk/Images/Profile/EE/5055.jpg
+9136,Moomal Bukhari,Lecturer,,,moomal.bukhari@nu.edu.pk,ee,271,http://isb.nu.edu.pk/Images/Profile/EE/9136.jpg
+9389,Maria Nasir,Lecturer,,,maria.nasir@nu.edu.pk,ee,123,http://isb.nu.edu.pk/Images/Profile/EE/9389.jpg
+5502,Ifrah Maqsood,Lab Engineer,,,ifrah.maqsood@nu.edu.pk,ee,123,http://isb.nu.edu.pk/Images/Profile/EE/5502.jpg
+4669,Fakhar Abbas,Lab Engineer,,,fakhar.abbas@nu.edu.pk,ee,261,http://isb.nu.edu.pk/Images/Profile/EE/4669.jpg
+5030,Kashif Islam,Assistant Manager (EE Labs),,,kashif.islam@nu.edu.pk,ee,223,http://isb.nu.edu.pk/Images/Profile/EE/5030.jpg
+5391,Soha Saqib,Assistant Manager Academics,,,soha.saqib@nu.edu.pk,ee,160,http://isb.nu.edu.pk/Images/Profile/EE/5391.jpg
+4133,M. Atif Baig,Deputy Manager (Coordination),,,atif.baig@nu.edu.pk,ee,183,http://isb.nu.edu.pk/Images/Profile/EE/4133.jpg
+4456,Saqib Shahbaz Raja,Lab Supervisor,,,saqib.shahbaz@nu.edu.pk,ee,670,http://isb.nu.edu.pk/Images/Profile/EE/4456.jpg
+4737,Ahsan Iqbal Khan,Lab Supervisor,,,Ahsan.iqbal@nu.edu.pk,ee,392,http://isb.nu.edu.pk/Images/Profile/EE/4737.jpg
+9199,Muhammad Younas,Lab Supervisor,,,muhammad.younas@nu.edu.pk,ee,377,http://isb.nu.edu.pk/Images/Profile/EE/9199.jpg
+5376,Ghulam Nabi,Lab Technician,,,ghulam.nabi@nu.edu.pk,ee,115,http://isb.nu.edu.pk/Images/Profile/EE/5376.jpg
+4455,Rizwan Javed,Lab Assistant,,,rizwan.javed@nu.edu.pk,ee,184,http://isb.nu.edu.pk/Images/Profile/EE/4455.jpg
+5288,Uzair Uddin Farooqi,Academic Officer,,,uzair.farooqi@nu.edu.pk,ee,-1,http://isb.nu.edu.pk/Images/Profile/EE/5288.jpg
+3739,Muhammad Tariq,Assistant Academic Officer,,,malik.tariq@nu.edu.pk,ee,324,http://isb.nu.edu.pk/Images/Profile/EE/3739.jpg
+6376,Nimra Fatima,Lab Engineer,,,nimra.fatima@nu.edu.pk,ee,123,http://isb.nu.edu.pk/Images/Profile/CS/6376.jpg
+3938,Khadija Farooq,Incharge (Sciences & Humanities) & Assistant Professor,,,khadija.farooq@nu.edu.pk,sh,383,http://isb.nu.edu.pk/Images/Profile/SH/3938.jpg
+4385,Muhammad Tayyeb Nadeem,Professor,,,tayyeb.nadeem@nu.edu.pk,sh,339,http://isb.nu.edu.pk/Images/Profile/SH/4385.jpg
+4218,M. Usman Ashraf,Associate Professor,,,usman.ashraf@nu.edu.pk,sh,358,http://isb.nu.edu.pk/Images/Profile/SH/42182021-01-20_01.32.39.JPG
+4219,Muhammad Ali,Associate Professor,,,m.ali@nu.edu.pk,sh,357,http://isb.nu.edu.pk/Images/Profile/SH/4219.jpg
+4220,Syed Irfan Shah,Associate Professor,,,irfan.shah@nu.edu.pk,sh,353,http://isb.nu.edu.pk/Images/Profile/SH/4220.jpg
+9383,Memoona Rasool,Assistant Professor,,,maimoona.rasool@nu.edu.pk,sh,532,http://isb.nu.edu.pk/Images/Profile/SH/9383.jpg
+4576,Khalil Ullah,Assistant Professor,,,khalil.awan@nu.edu.pk,sh,358,http://isb.nu.edu.pk/Images/Profile/SH/4576.jpg
+5248,Hamda Khan,Assistant Professor,,,hamda.khan@nu.edu.pk,sh,362,http://isb.nu.edu.pk/Images/Profile/SH/5248.jpg
+3442,Shahzad Mahmood,Assistant Professor,,,shahzad.mahmood@nu.edu.pk,sh,209,http://isb.nu.edu.pk/Images/Profile/SH/3442.jpg
+3940,Aisha Ijaz,Assistant Professor,,,aisha.ijaz@nu.edu.pk,sh,362,http://isb.nu.edu.pk/Images/Profile/SH/3940.jpg
+4127,Mehwish Hassan,Assistant Professor,,,mehwish.hassan@nu.edu.pk,sh,363,http://isb.nu.edu.pk/Images/Profile/SH/4127.jpg
+4214,Farah Jabeen Awan,Assistant Professor,,,farah.awan@nu.edu.pk,sh,105,http://isb.nu.edu.pk/Images/Profile/SH/4214.jpg
+5354,Sehrish Hassan Shigri,Lecturer,,,sehrish.hassan@nu.edu.pk,sh,257,http://isb.nu.edu.pk/Images/Profile/SH/5354.jpg
+5898,Sana Ilyas,Lecturer,,,sanaa.ilyas@nu.edu.pk,sh,612,http://isb.nu.edu.pk/Images/user/avatar_2x.png
+5902,Zunera Malik,Lecturer,,,zunaira.malik@nu.edu.pk,sh,382,http://isb.nu.edu.pk/Images/user/avatar_2x.png
+9341,Sadia Nauman,Lecturer,,,sadia.nauman@nu.edu.pk,sh,532,http://isb.nu.edu.pk/Images/Profile/SH/9341.jpg
+9529,Sumera Abbas,Lecturer,,,sumera.abbas@nu.edu.pk,sh,388,http://isb.nu.edu.pk/Images/Profile/SH/9529.jpg
+3813,Sadia Nadeem,HOD & Professor,,,sadia.nadeem@nu.edu.pk,ms,182,"http://isb.nu.edu.pk/Images/Profile/FSM/38132020-05-20,%2023.16.54.jpg"
+9490,Ayub Siddiqui,Professor (Dean Faculty of FSM),,,ayub.siddiqui@nu.edu.pk,ms,208,http://isb.nu.edu.pk/Images/Profile/FSM/9490.jpg
+5615,Haider Ali,Associate Professor,,,haider.ali@nu.edu.pk,ms,218,http://isb.nu.edu.pk/Images/Profile/FSM/5615.jpg
+5616,Adnan Shoaib,Associate Professor,,,adnan.shoaib@nu.edu.pk,ms,163,http://isb.nu.edu.pk/Images/Profile/FSM/5616.jpg
+9488,Muhammad Abbas,Associate Professor,,,muhammad.abbas@nu.edu.pk,ms,602,http://isb.nu.edu.pk/Images/Profile/FSM/9488.jpg
+6043,Muhammad Yasir,Assistant Professor,,,m.yasir@nu.edu.pk,ms,-1,http://isb.nu.edu.pk/Images/Profile/FSM/6443.jpg
+9133,Falak Khan,Assistant Professor,,,falak.khan@nu.edu.pk,ms,202,http://isb.nu.edu.pk/Images/Profile/FSM/9133.jpg
+9141,Shuja Ul Islam,Assistant Professor,,,shujaul.islam@nu.edu.pk,ms,337,http://isb.nu.edu.pk/Images/Profile/FSM/9141.jpg
+9151,Usman Zafar Chaudhry,Assistant Professor,,,usman.chaudhry@nu.edu.pk,ms,347,http://isb.nu.edu.pk/Images/Profile/FSM/9151.JPG
+9337,Hammad Majeed,Assistant Professor,,,h.majeed@nu.edu.pk,ms,267,http://isb.nu.edu.pk/Images/Profile/FSM/9337.jpg
+4398,Sarah Khan,Assistant Professor,,,sara.khan@nu.edu.pk,ms,338,http://isb.nu.edu.pk/Images/Profile/FSM/43982020-06-10_22.10.51.jpg
+4589,Ayesha Bano,Assistant Professor,,,ayesha.bano@nu.edu.pk,ms,336,http://isb.nu.edu.pk/Images/Profile/FSM/4589.jpg
+5197,Aftab Bhatti,Assistant Professor,,,aftab.bhatti@nu.edu.pk,ms,604,"http://isb.nu.edu.pk/Images/Profile/FSM/51972020-05-31,%2022.05.10.jpg"
+5331,Abdul Wahab,Assistant Professor,,,abdulwahab@nu.edu.pk,ms,351,"http://isb.nu.edu.pk/Images/Profile/FSM/53312020-05-29,%2006.03.08.jpg"
+5332,Muhammad Akhtar,Assistant Professor,,,muhammad.akhtar@nu.edu.pk,ms,205,http://isb.nu.edu.pk/Images/Profile/FSM/5332.jpg
+5333,Muhammad Bilal Saeed,Assistant Professor,,,bilalsaeed@nu.edu.pk,ms,269,http://isb.nu.edu.pk/Images/Profile/FSM/5333.jpg
+5357,Muhammad Hassaan,Assistant Professor,,,muhammad.hassaan@nu.edu.pk,ms,322,http://isb.nu.edu.pk/Images/Profile/FSM/5357.jpg
+5441,Amna Arsalan Farooqui,Assistant Professor,,,amna.farooqui@nu.edu.pk,ms,355,http://isb.nu.edu.pk/Images/Profile/FSM/5441.jpg
+5334,Rehan Aftab,Lecturer,,,rehan.aftab@nu.edu.pk,ms,350,http://isb.nu.edu.pk/Images/Profile/FSM/53342020-06-15_08.48.17.jpg
+5247,Danial Hasan,Lecturer,,,danial.hassan@nu.edu.pk,ms,317,http://isb.nu.edu.pk/Images/Profile/FSM/5247.jpg
+5093,Sidra Abbas,Lecturer,,,sidra.abbas@nu.edu.pk,ms,341,http://isb.nu.edu.pk/Images/Profile/FSM/5093.jpg
+5141,Saifullah Khan,Lecturer,,,saifullah.khan@nu.edu.pk,ms,166,http://isb.nu.edu.pk/Images/Profile/FSM/5141.jpg
+4379,Farah Naz,Lecturer,,,farah.naz@nu.edu.pk,ms,105,http://isb.nu.edu.pk/Images/Profile/SH/4379.jpg
+9381,Mansoor Mushtaq,Lecturer,,,mansoor.mushtaq@nu.edu.pk,ms,164,http://isb.nu.edu.pk/Images/Profile/FSM/9381.jpg
+5792,Ayesha Yaqoob,Lecturer,,,ayesha.yaqoob@nu.edu.pk,ms,335,http://isb.nu.edu.pk/Images/Profile/FSM/57922020-06-10_21.58.48.jpg
+5841,Mehmood Ur Rehman,Lecturer,,,mehmood.rehman@nu.edu.pk,ms,161,http://isb.nu.edu.pk/Images/Profile/FSM/5841.JPG
+5318,Sajjad Hanif,Instructor,,,sajjad.hanif@nu.edu.pk,ms,373,http://isb.nu.edu.pk/Images/Profile/FSM/5318.jpg
+4656,Tufail Ahmad,Assistant Manager Academics,,,tufail.ahmad@nu.edu.pk,ms,623,http://isb.nu.edu.pk/Images/Profile/CS/4656.jpg
+5405,Jabeen Akhtar,Academic Officer,,,jabeen.akhtar@nu.edu.pk,ms,137,http://isb.nu.edu.pk/Images/Profile/FSM/5405.jpg
+3536,Muhammad Shiraz,Assistant,,,muhammad.shiraz@nu.edu.pk,ms,270,http://isb.nu.edu.pk/Images/Profile/FSM/3536.jpg
